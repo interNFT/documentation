@@ -1,5 +1,5 @@
 # Project information
-site_name: interNFT
+site_name: Interchain Non-Fungible Token
 site_description: Specefication Working Draft
 site_author: interNFT
 site_url: http://internft.org/
@@ -26,7 +26,7 @@ theme:
   palette:
     scheme: default
     primary: black
-    accent: black
+    accent: grey
 
   font:
     text: Roboto
@@ -58,7 +58,7 @@ extra:
 
 # Google Analytics
 google_analytics:
-  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
+  - !!python/object/apply:os.getenv [ "GOOGLE_ANALYTICS_KEY" ]
   - auto
 
 # Extensions
@@ -101,14 +101,24 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home:
-      - Index: index.md
+  - Working Draft:
+      - 1. Introduction: index.md
+      - 2. Use Cases: workingDraft/useCases.md
+      - 3. Terminology: workingDraft/terminology.md
+      - 4. Interface: workingDraft/interface.md
+      - 5. Identifier: workingDraft/identifier.md
+      - 6. Properties: workingDraft/properties.md
+      - 7. Representation: workingDraft/representation.md
+      - 8. Methods: workingDraft/methods.md
+      - 9. Resolution: workingDraft/resolution.md
+      - 10. Security: workingDraft/security.md
+      - 11. Privacy: workingDraft/privacy.md
+      - 12. Examples: workingDraft/examples.md
+      - 13. Known Issues: workingDraft/knownIssues.md
   - Working Group:
       - Meetings: workingGroup/meetings.md
       - Group Details: workingGroup/groupDetails.md
       - Getting Involved: workingGroup/gettingInvolved.md
       - General Links: workingGroup/generalLinks.md
-  - Use Cases:
-      - Persistence: useCases/persistence.md
-  - Use Cases:
-      - Roadmap: roadMap/roadMap.md
+  - Roadmap:
+      - Milestones: roadmap/milestones.md
