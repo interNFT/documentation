@@ -58,7 +58,7 @@ extra:
 
 # Google Analytics
 google_analytics:
-  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
+  - !!python/object/apply:os.getenv [ "GOOGLE_ANALYTICS_KEY" ]
   - auto
 
 # Extensions
@@ -102,7 +102,7 @@ markdown_extensions:
 # Page tree
 nav:
   - Working Draft:
-      - 1. Introduction: workingDraft/introduction.md
+      - 1. Introduction: index.md
       - 2. Use Cases: workingDraft/useCases.md
       - 3. Terminology: workingDraft/terminology.md
       - 4. Interface: workingDraft/interface.md
