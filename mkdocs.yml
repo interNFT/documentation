@@ -122,3 +122,6 @@ nav:
       - General Links: workingGroup/generalLinks.md
   - Roadmap:
       - Milestones: roadmap/milestones.md
+
+extra_css:
+  - stylesheets/extra.css
