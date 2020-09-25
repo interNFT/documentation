@@ -1,39 +1,35 @@
 # Group Details
 
-##Core	
+## Core	
+
 * **ICF/Cosmos**	
 Billy Rennekamp,
 Juwoon Yun,
 Sam Hart,
 Colin Axnér,
-Michael Niederer,
+Michael Niederer
 * **Persistence**
 Deepanshu Tripathi,
 Tushar Aggarval,
 Abhitej Singh,
-Karthik Bupathi,
+Karthik Bupathi
 * **ixo**	
 Shaun Conway,
 Miguel Dingli,
-Adrien Berthou,
+Adrien Berthou
 
-##Public
+## Public
+
 * **Akash Network**
-Jack Zampolin,
+Jack Zampolin
 * **Iris Network**
 Jeffrey Hu,
-Harriet,
+Harriet
 * **Left Gallery**
-Harm Van Den Dorpel,
+Harm Van Den Dorpel
 * **Simply VC**
-Matthew Felice Pace,
+Matthew Felice Pace
 * **Regen Network**
 Aaron Craelius,
 Cory Levinson,
-Gregory Landua,
-		
-		
-		
-		
-		
-		
+Gregory Landua
