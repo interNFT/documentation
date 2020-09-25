@@ -104,7 +104,7 @@ nav:
   - Working Draft:
       - 1. Introduction: index.md
       - 2. Use Cases Taxonomy: workingDraft/useCases.md
-      - 3. Use Cases Collection: workingDraft/terminology.md
+      - 3. Use Cases Collection: workingDraft/useCasesCollected.md
       - 4. Terminology: workingDraft/terminology.md
       - 5. Interface: workingDraft/interface.md
       - 6. Identifier: workingDraft/identifier.md
