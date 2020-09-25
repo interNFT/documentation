@@ -103,18 +103,19 @@ markdown_extensions:
 nav:
   - Working Draft:
       - 1. Introduction: index.md
-      - 2. Use Cases: workingDraft/useCases.md
-      - 3. Terminology: workingDraft/terminology.md
-      - 4. Interface: workingDraft/interface.md
-      - 5. Identifier: workingDraft/identifier.md
-      - 6. Properties: workingDraft/properties.md
-      - 7. Representation: workingDraft/representation.md
-      - 8. Methods: workingDraft/methods.md
-      - 9. Resolution: workingDraft/resolution.md
-      - 10. Security: workingDraft/security.md
-      - 11. Privacy: workingDraft/privacy.md
-      - 12. Examples: workingDraft/examples.md
-      - 13. Known Issues: workingDraft/knownIssues.md
+      - 2. Use Cases Taxonomy: workingDraft/useCases.md
+      - 3. Use Cases Collection: workingDraft/terminology.md
+      - 4. Terminology: workingDraft/terminology.md
+      - 5. Interface: workingDraft/interface.md
+      - 6. Identifier: workingDraft/identifier.md
+      - 7. Properties: workingDraft/properties.md
+      - 8. Representation: workingDraft/representation.md
+      - 9. Methods: workingDraft/methods.md
+      - 10. Resolution: workingDraft/resolution.md
+      - 11. Security: workingDraft/security.md
+      - 12. Privacy: workingDraft/privacy.md
+      - 13. Examples: workingDraft/examples.md
+      - 14. Known Issues: workingDraft/knownIssues.md
   - Working Group:
       - Meetings: workingGroup/meetings.md
       - Group Details: workingGroup/groupDetails.md
