@@ -1,4 +1,4 @@
-# Use Cases
+# Use Cases Taxonomy
 
 ## Special Abilities
 
@@ -22,6 +22,8 @@ Not implemented by any project afaik
 
 Not implemented by any project afaik
 
+
+------
 
 ## Digital Assets - Residing Entirely in the On-Chain Digital World
 
@@ -83,6 +85,8 @@ Ethereum: Foam
 
 TODO
 
+
+------
 
 ## Redeemable Tokens - Representing Real-World Assets
 
