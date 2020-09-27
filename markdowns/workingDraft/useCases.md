@@ -1,5 +1,15 @@
 # Use Cases Taxonomy
 
+**Authors:**
+
+* Adrien Berthou
+
+**Participate:**
+
+* [Connect With Us](./workingGroup/gettingInvolved/)
+
+-------
+
 ## Special Abilities
 
 | Category        |  Projects   |
@@ -10,7 +20,6 @@
 | Co-Dependency: Conditionally send notifications between two NFTs | Not implemented by any project afaik |
 | Royalties: Send part of each 2ary market transaction to creator | Not implemented by any project afaik |
 
-------
 
 ## Digital Assets - Residing Entirely in the On-Chain Digital World
 
@@ -31,7 +40,6 @@
 | Geolocation: Point Of Interests, Dynamic Location | Foam |
 | Authentication: Non-Custodial Login, Reusable KYC | TODO |
 
-------
 
 ## Redeemable Tokens - Representing Real-World Assets
 
