@@ -125,8 +125,4 @@ nav:
       - Milestones: roadmap/milestones.md
 
 extra_css:
-<<<<<<< HEAD
   - assets/stylesheets/extra.css
-=======
-  - stylesheets/extra.css
->>>>>>> 14e4d70c7680b27fa441072e29bec15b1f9a0506
