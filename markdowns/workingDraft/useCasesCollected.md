@@ -28,7 +28,12 @@ We provide decentralized username so people can have a decentralized identity an
 
 ## Aavegotchi
 
-It is a unique  project. Aavegotchis are DeFi-powered NFTs. 
+It is a unique project. Aavegotchis are DeFi-powered NFTs. 
 
 Aavegotchis have many different traits, including personality, ethereality, body color, and many more. Some traits are assigned at birth, using a special randomizer algorithm.
 Aavegotchis can be traded/sold/bought. You’ll be able to trade your Aavegotchi in NFT markets like OpenSea. Even better, all of the staked collateral comes with your Aavegotchi when you trade it.
+
+
+## ixo Network
+
+A unique project leveraging NFTs to track impact in the sustainability space. NFTs are an essential piece of the puzzle in building and permanently enclosing what we call a proof of impact. These NFTs can embed essential and immutable informations such as the originating project and other stakeholders involved.

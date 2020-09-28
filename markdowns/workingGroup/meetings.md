@@ -14,11 +14,11 @@ Note that the dates are estimates and may vary. Double check with us on Discord 
 6. Documenting canonical Use-cases (Approach, format, timeline, etc) - Adrien - 15 mins 
 7. Working Group membership, agenda for future calls, AoB - Karthik - 10 mins
 
-Video Recording of the call: https://www.youtube.com/watch?v=c5v1xh1mOa4&feature=youtu.be&ab_channel=InterNFTProject
+Video Recording of Call 1: https://www.youtube.com/watch?v=c5v1xh1mOa4&feature=youtu.be&ab_channel=InterNFTProject
 
-Slides of the call: https://github.com/interNFT/documentation/blob/master/resources/ICF_NFT_WG_-_Call_1_-_04.09.2020.pdf
+Slides of Call 1: https://github.com/interNFT/documentation/blob/master/resources/ICF_NFT_WG_-_Call_1_-_04.09.2020.pdf
 
-Minutes of the call:
+Minutes of Call 1:
 
 ```
 Deepanshu Tripathi: Presentation of Persistence and how the project came about to work with ixo network and ICF. 
@@ -58,12 +58,19 @@ InterNFT.org —> domain where we will publicly share our efforts; that includes
 
 **25th September 2020**
 
-1. Welcome
-2. Outcomes of Outreach Effort - 5 mins
-3. Outcomes of Reference Use Cases Collection Effort -
-5 mins
-4. Lightning Presentations of 3 use-cases - 3 project attendants - 15 mins
-5. General Update on other WIP topics
+1. Welcome, short project intro and last call summary - Billy - 5min
+2. Scope and Objectives - where we are now - Shaun - 5min
+3. The InterNFT.org website is up and running - Deepanshu - 5min
+4. Outcomes of Outreach Effort - Adrien - 5min
+5. Ligthning presentations of 2 use-cases - 10 min - by Antoine of IOV Starname and Charly of Centrifuge
+6. Use Case collection and documentation - Adrien - 5min
+7. Community Feedback - 10 min - Karthik and call participants
+
+Slides of Call 2: https://github.com/interNFT/documentation/tree/master/resources/ICF_NFT_WG_-_Call_2_-_25.09.2020.pdf
+
+Video Recording of Call 1: coming soon...
+
+Minutes of Call 2: coming soon...
 
 ### Call 3
 
