@@ -101,6 +101,13 @@ markdown_extensions:
 
 # Page tree
 nav:
+  - Working Group:
+      - Meetings: workingGroup/meetings.md
+      - Group Details: workingGroup/groupDetails.md
+      - Getting Involved: workingGroup/gettingInvolved.md
+      - General Links: workingGroup/generalLinks.md
+  - Roadmap:
+      - Milestones: roadmap/milestones.md
   - Working Draft:
       - 1. Introduction: index.md
       - 2. Use Cases Taxonomy: workingDraft/useCases.md
@@ -116,13 +123,7 @@ nav:
       - 12. Privacy: workingDraft/privacy.md
       - 13. Examples: workingDraft/examples.md
       - 14. Known Issues: workingDraft/knownIssues.md
-  - Working Group:
-      - Meetings: workingGroup/meetings.md
-      - Group Details: workingGroup/groupDetails.md
-      - Getting Involved: workingGroup/gettingInvolved.md
-      - General Links: workingGroup/generalLinks.md
-  - Roadmap:
-      - Milestones: roadmap/milestones.md
+ 
 
 extra_css:
   - stylesheets/extra.css
