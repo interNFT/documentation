@@ -106,6 +106,8 @@ nav:
       - Meetings: workingGroup/meetings.md
       - Group Details: workingGroup/groupDetails.md
       - Getting Involved: workingGroup/gettingInvolved.md
+  - Roadmap:
+      - Milestones: roadmap/milestones.md
   - Working Draft:
       - 1. Introduction: workingDraft/introduction.md
       - 2. Use Cases Taxonomy: workingDraft/useCases.md
@@ -121,8 +123,6 @@ nav:
       - 12. Privacy: workingDraft/privacy.md
       - 13. Examples: workingDraft/examples.md
       - 14. Known Issues: workingDraft/knownIssues.md
-  - Roadmap:
-      - Milestones: roadmap/milestones.md
 
 extra_css:
   - assets/stylesheets/extra.css
