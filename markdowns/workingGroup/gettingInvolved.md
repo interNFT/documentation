@@ -1,7 +1,7 @@
 # Participate And Keep In Touch
 
 
-* [Discord](https://discord.com/channels/669268347736686612/744845986743975976){:target="_blank"} : our community chat
+* [Discord (invitation link)](https://discord.com/invite/W8trcGV){:target="_blank"} : our community chat is in the ["nft-and-metadata" channel (link to channel)](https://discord.com/channels/669268347736686612/744845986743975976){:target="_blank"}
 * [InterNFT WG BiWeekly Calls](./workingGroup/meetings/){:target="_blank"} : regular verbal project updates and verbal discussions
 * [InterNFT Youtube Channel](https://www.youtube.com/channel/UCEmFhwNH8AiHR8dNSZ9fB0w){:target="_blank"} : watch recording of our WG calls
 * [InterNFT.org](https://interNFT.org){:target="_blank"} : our website with all the most up-to-date information
