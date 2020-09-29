@@ -25,15 +25,15 @@
 
 | Category    | Ethereum Projects |  Cosmos/Tendermint Projects |
 | ------------- |:-------------:|:-------------:| 
-| NFT Marketplaces | OpenSea, Rarible, Enjin |
-| NFT Project Launch Platforms | Enjin, GamesCredit, WAX |
+| NFT Marketplaces | [OpenSea](https://opensea.io/){:target="_blank"} , [Rarible](https://rarible.com/){:target="_blank"}, [Enjin](https://enjin.io/){:target="_blank"} |
+| NFT Project Launch Platforms | [Enjin](https://enjin.io/){:target="_blank"}, [GamesCredit](https://gamecredits.org/){:target="_blank"}, [WAX](https://wax.io/){:target="_blank"}  |
 | Gaming Items: skins, weapons, pets and so on | My Crypto Heroes, Axie Infinity, Neon District |
 | Gaming Collectibles: cards, characters | Rare Pepe, CryptoKitties, Gods Unchained, Splinterlands |
 | Digital Art | superrare.co, ark.gallery |
 | Virtual Land in Metaverses | Decentraland, Somnium Space VR, Cryptovoxels, The Sandbox |
 | DeFi: Stake for NFT rewards (NFT Farming) | AaveGotchi, DontBuyMeme.com |
 | DeFi: Loans against NFTs | TODO |
-| DeFi: Wrapped Token Bridges | Keep's TBTC Deposit Token (TDT), nftfi.com |
+| DeFi: Wrapped Token Bridges | [Keep's TBTC Deposit Token (TDT)](https://tbtc.network/developers/tbtc-technical-system-overview/){:target="_blank"} , nftfi.com |
 | DeFi: Insurance | yearn finance, yieldfarming.insure |
 | NFT-based Prediction Market | realitycards.io |
 | Domain Names: Blockchain Name Services | ENS, Unstoppable Domains | IOV Starname |
