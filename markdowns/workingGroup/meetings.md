@@ -70,7 +70,30 @@ Slides of Call 2: https://github.com/interNFT/documentation/tree/master/resource
 
 Video Recording of Call 1: coming soon...
 
-Minutes of Call 2: coming soon...
+Minutes of Call 2:
+
+```
+1. Welcome, v short project intro and briefly mention achievements covered in last call - Billy - 5min
+2. Scope and Objectives - where we are now - Shaun - 5min
+3. The Github repo as an additional source of info - Deepanshu - 5min
+4. Outcomes of Outreach Effort - Adrien - 5 mins
+
+5. Ligthning presentations of 3 use-cases - 20 min - by participants: IOV Starname, Centrifuge
+Charly -> presentation of Centrifuge and its NFT use-case https://tinlake.centrifuge.io/ implemented on ethereum and substrate
+
+6. Use Case collection and documentation - Adrien - 10min
+Bruno and Raul of Kusama/Polkadot -> presenting http://rmrk.app - Bruno will be happy to follow our standard once ready. Raul sharing the next session discussing the NFT strategy for Kusama https://www.crowdcast.io/e/213v16pl
+
+7. Community Feedback - 10 min - Karthik
+Review process discussion
+Aaron of Cosmos SDK team and Regen -> presenting ARDs and RFPs/RFCs - first doc use-case and needs, then problem definitions and proposals (that’s in the feature request template when creating a new github issue), once there is alignment on architecture we go thru an ADR process (similar to RFC) - see ADRs on https://github.com/cosmos/cosmos-sdk/tree/master/docs/architecture
+Gregory -> would be great to have these standards convos happening with Lacchain, they work on standards approach to DiD, Metadata and Identity, c.f. https://github.com/lacchain/lacchain-id
+Billy -> ADR is very specific to single features, whereas we are talking here about the Metadata+NFT+IBC, it might be beneficial to use the ICS as a starting point. we may need up to four approvals before going forward with decision
+Aaron -> on the SDK side we adopted a multi-language standard, i hope we can follow a similar process for NFTs. The discussion can start somewhere else than github issue
+Deepanshu -> discussion could start on an forum for non-technical audience to easily take part too, then move to github issues
+
+FYI: Calls are moved to Thursdays from now on
+```
 
 ### Call 3
 
