@@ -68,7 +68,7 @@ InterNFT.org —> domain where we will publicly share our efforts; that includes
 
 Slides of Call 2: https://github.com/interNFT/documentation/tree/master/resources/ICF_NFT_WG_-_Call_2_-_25.09.2020.pdf
 
-Video Recording of Call 1: coming soon...
+Video Recording of Call 1: https://youtu.be/2NwOTwGkgpg
 
 Minutes of Call 2:
 
