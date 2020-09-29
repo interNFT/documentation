@@ -2,7 +2,7 @@
 
 Note that the dates are estimates and may vary. Double check with us on Discord for the next WG Meeting.
 
-### Call 1
+## Call 1
 
 **4th September 2020**
 
@@ -54,7 +54,7 @@ Karthik Bupathi:
 InterNFT.org —> domain where we will publicly share our efforts; that includes a forum for ongoing discussions and a single source of truth for up-to-date information about latest decisions, events, recordings, documents, updates, and so on.
 ```
 
-### Call 2
+## Call 2
 
 **25th September 2020**
 
@@ -95,21 +95,21 @@ Deepanshu -> discussion could start on an forum for non-technical audience to ea
 FYI: Calls are moved to Thursdays from now on
 ```
 
-### Call 3
+## Call 3
 
 **8th October 2020**
 
 1. Tech Standard for NFT Metadata
 2. Blockchain-Agnostic Technical Standard for using NFT MetaData to represent assets with identified subjects and data resources
 
-### Call 4
+## Call 4
 
 **22nd October 2020**
 
 1. Tech Standard for NFT Metadata: progress update
 2. Interface Standard for Implementing NFTs in the Cosmos SDK
 
-### Call 5
+## Call 5
 
 **5th November 2020**
 
@@ -117,7 +117,7 @@ FYI: Calls are moved to Thursdays from now on
 2. Interface Standard for Implementing NFTs in the Cosmos SDK: progress update
 3. ZKP and private/anonymous NFTs
 
-### Call 6
+## Call 6
 
 **19th November 2020**
 
