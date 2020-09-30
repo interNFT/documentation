@@ -14,7 +14,7 @@ Note that the dates are estimates and may vary. Double check with us on Discord 
 6. Documenting canonical Use-cases (Approach, format, timeline, etc) - Adrien - 15 mins 
 7. Working Group membership, agenda for future calls, AoB - Karthik - 10 mins
 
-Video Recording of Call 1: https://www.youtube.com/watch?v=c5v1xh1mOa4&feature=youtu.be&ab_channel=InterNFTProject
+Video Recording of Call 1: https://www.youtube.com/watch?v=c5v1xh1mOa4
 
 Slides of Call 1: https://github.com/interNFT/documentation/blob/master/resources/ICF_NFT_WG_-_Call_1_-_04.09.2020.pdf
 
@@ -68,7 +68,7 @@ InterNFT.org —> domain where we will publicly share our efforts; that includes
 
 Slides of Call 2: https://github.com/interNFT/documentation/tree/master/resources/ICF_NFT_WG_-_Call_2_-_25.09.2020.pdf
 
-Video Recording of Call 1: https://youtu.be/2NwOTwGkgpg
+Video Recording of Call 2: https://youtu.be/2NwOTwGkgpg
 
 Minutes of Call 2:
 
