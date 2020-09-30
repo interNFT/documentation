@@ -2,7 +2,7 @@
 
 Note that the dates are estimates and may vary. Double check with us on Discord for the next WG Meeting.
 
-### Call 1
+## Call 1
 
 **4th September 2020**
 
@@ -54,7 +54,7 @@ Karthik Bupathi:
 InterNFT.org —> domain where we will publicly share our efforts; that includes a forum for ongoing discussions and a single source of truth for up-to-date information about latest decisions, events, recordings, documents, updates, and so on.
 ```
 
-### Call 2
+## Call 2
 
 **25th September 2020**
 
@@ -68,25 +68,48 @@ InterNFT.org —> domain where we will publicly share our efforts; that includes
 
 Slides of Call 2: https://github.com/interNFT/documentation/tree/master/resources/ICF_NFT_WG_-_Call_2_-_25.09.2020.pdf
 
-Video Recording of Call 1: coming soon...
+Video Recording of Call 1: https://youtu.be/2NwOTwGkgpg
 
-Minutes of Call 2: coming soon...
+Minutes of Call 2:
 
-### Call 3
+```
+1. Welcome, v short project intro and briefly mention achievements covered in last call - Billy - 5min
+2. Scope and Objectives - where we are now - Shaun - 5min
+3. The Github repo as an additional source of info - Deepanshu - 5min
+4. Outcomes of Outreach Effort - Adrien - 5 mins
+
+5. Ligthning presentations of 3 use-cases - 20 min - by participants: IOV Starname, Centrifuge
+Charly -> presentation of Centrifuge and its NFT use-case https://tinlake.centrifuge.io/ implemented on ethereum and substrate
+
+6. Use Case collection and documentation - Adrien - 10min
+Bruno and Raul of Kusama/Polkadot -> presenting http://rmrk.app - Bruno will be happy to follow our standard once ready. Raul sharing the next session discussing the NFT strategy for Kusama https://www.crowdcast.io/e/213v16pl
+
+7. Community Feedback - 10 min - Karthik
+Review process discussion
+Aaron of Cosmos SDK team and Regen -> presenting ARDs and RFPs/RFCs - first doc use-case and needs, then problem definitions and proposals (that’s in the feature request template when creating a new github issue), once there is alignment on architecture we go thru an ADR process (similar to RFC) - see ADRs on https://github.com/cosmos/cosmos-sdk/tree/master/docs/architecture
+Gregory -> would be great to have these standards convos happening with Lacchain, they work on standards approach to DiD, Metadata and Identity, c.f. https://github.com/lacchain/lacchain-id
+Billy -> ADR is very specific to single features, whereas we are talking here about the Metadata+NFT+IBC, it might be beneficial to use the ICS as a starting point. we may need up to four approvals before going forward with decision
+Aaron -> on the SDK side we adopted a multi-language standard, i hope we can follow a similar process for NFTs. The discussion can start somewhere else than github issue
+Deepanshu -> discussion could start on an forum for non-technical audience to easily take part too, then move to github issues
+
+FYI: Calls are moved to Thursdays from now on
+```
+
+## Call 3
 
 **8th October 2020**
 
 1. Tech Standard for NFT Metadata
 2. Blockchain-Agnostic Technical Standard for using NFT MetaData to represent assets with identified subjects and data resources
 
-### Call 4
+## Call 4
 
 **22nd October 2020**
 
 1. Tech Standard for NFT Metadata: progress update
 2. Interface Standard for Implementing NFTs in the Cosmos SDK
 
-### Call 5
+## Call 5
 
 **5th November 2020**
 
@@ -94,7 +117,7 @@ Minutes of Call 2: coming soon...
 2. Interface Standard for Implementing NFTs in the Cosmos SDK: progress update
 3. ZKP and private/anonymous NFTs
 
-### Call 6
+## Call 6
 
 **19th November 2020**
 
