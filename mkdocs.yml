@@ -123,6 +123,7 @@ nav:
       - 12. Privacy: workingDraft/privacy.md
       - 13. Examples: workingDraft/examples.md
       - 14. Known Issues: workingDraft/knownIssues.md
+      - 15. Resources: workingDraft/resources.md
 
 extra_css:
   - assets/stylesheets/extra.css
