@@ -97,21 +97,21 @@ FYI: Calls are moved to Thursdays from now on
 
 ## Call 3
 
-**8th October 2020**
+**22nd October 2020**
 
 1. Tech Standard for NFT Metadata
 2. Blockchain-Agnostic Technical Standard for using NFT MetaData to represent assets with identified subjects and data resources
 
 ## Call 4
 
-**22nd October 2020**
+**5th November 2020**
 
 1. Tech Standard for NFT Metadata: progress update
 2. Interface Standard for Implementing NFTs in the Cosmos SDK
 
 ## Call 5
 
-**5th November 2020**
+**19th November 2020**
 
 1. Tech Standard for NFT Metadata: progress update
 2. Interface Standard for Implementing NFTs in the Cosmos SDK: progress update
@@ -119,7 +119,7 @@ FYI: Calls are moved to Thursdays from now on
 
 ## Call 6
 
-**19th November 2020**
+**3rd December 2020**
 
 1. Presentation and Discussion on near final work for:
 2. Tech Standard for NFT Metadata
