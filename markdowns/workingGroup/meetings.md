@@ -14,7 +14,7 @@ Note that the dates are estimates and may vary. Double check with us on Discord 
 6. Documenting canonical Use-cases (Approach, format, timeline, etc) - Adrien - 15 mins 
 7. Working Group membership, agenda for future calls, AoB - Karthik - 10 mins
 
-Video Recording of Call 1: https://www.youtube.com/watch?v=c5v1xh1mOa4&feature=youtu.be&ab_channel=InterNFTProject
+Video Recording of Call 1: https://www.youtube.com/watch?v=c5v1xh1mOa4
 
 Slides of Call 1: https://github.com/interNFT/documentation/blob/master/resources/ICF_NFT_WG_-_Call_1_-_04.09.2020.pdf
 
@@ -68,7 +68,7 @@ InterNFT.org —> domain where we will publicly share our efforts; that includes
 
 Slides of Call 2: https://github.com/interNFT/documentation/tree/master/resources/ICF_NFT_WG_-_Call_2_-_25.09.2020.pdf
 
-Video Recording of Call 1: https://youtu.be/2NwOTwGkgpg
+Video Recording of Call 2: https://youtu.be/2NwOTwGkgpg
 
 Minutes of Call 2:
 
@@ -97,21 +97,21 @@ FYI: Calls are moved to Thursdays from now on
 
 ## Call 3
 
-**8th October 2020**
+**22nd October 2020**
 
 1. Tech Standard for NFT Metadata
 2. Blockchain-Agnostic Technical Standard for using NFT MetaData to represent assets with identified subjects and data resources
 
 ## Call 4
 
-**22nd October 2020**
+**5th November 2020**
 
 1. Tech Standard for NFT Metadata: progress update
 2. Interface Standard for Implementing NFTs in the Cosmos SDK
 
 ## Call 5
 
-**5th November 2020**
+**19th November 2020**
 
 1. Tech Standard for NFT Metadata: progress update
 2. Interface Standard for Implementing NFTs in the Cosmos SDK: progress update
@@ -119,7 +119,7 @@ FYI: Calls are moved to Thursdays from now on
 
 ## Call 6
 
-**19th November 2020**
+**3rd December 2020**
 
 1. Presentation and Discussion on near final work for:
 2. Tech Standard for NFT Metadata
