@@ -110,20 +110,22 @@ nav:
       - Milestones: roadmap/milestones.md
   - Working Draft:
       - 1. Introduction: workingDraft/introduction.md
-      - 2. Use Cases Taxonomy: workingDraft/useCases.md
-      - 3. Use Cases Collection: workingDraft/useCasesCollected.md
-      - 4. Terminology: workingDraft/terminology.md
-      - 5. Interface: workingDraft/interface.md
-      - 6. Identifier: workingDraft/identifier.md
-      - 7. Properties: workingDraft/properties.md
-      - 8. Representation: workingDraft/representation.md
-      - 9. Methods: workingDraft/methods.md
-      - 10. Resolution: workingDraft/resolution.md
-      - 11. Security: workingDraft/security.md
-      - 12. Privacy: workingDraft/privacy.md
-      - 13. Examples: workingDraft/examples.md
-      - 14. Known Issues: workingDraft/knownIssues.md
-      - 15. Resources: workingDraft/resources.md
+      - 2. Existing Metadata Standards: workingDraft/existingMetadataStandards.md
+      - 3. Existing NFT Standards: workingDraft/existingNFTStandards.md
+      - 4. Use Cases Taxonomy: workingDraft/useCases.md
+      - 5. Use Cases Collection: workingDraft/useCasesCollected.md
+      - 6. Terminology: workingDraft/terminology.md
+      - 7. Interface: workingDraft/interface.md
+      - 8. Identifier: workingDraft/identifier.md
+      - 9. Properties: workingDraft/properties.md
+      - 10. Representation: workingDraft/representation.md
+      - 11. Methods: workingDraft/methods.md
+      - 12. Resolution: workingDraft/resolution.md
+      - 13. Security: workingDraft/security.md
+      - 14. Privacy: workingDraft/privacy.md
+      - 15. Examples: workingDraft/examples.md
+      - 16. Known Issues: workingDraft/knownIssues.md
+      - 17. Resources: workingDraft/resources.md
 
 extra_css:
   - assets/stylesheets/extra.css
