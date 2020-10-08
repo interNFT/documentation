@@ -20,5 +20,9 @@
 | Network  |  Type     |  Standard / Name   |   Compatibility   |   Example Usage    |   Purpose    |   Comments / Links  |
 | ------------- |:------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | BinanceChain  |  NFT     |  [BEP-7](https://github.com/binance-chain/BEPs/pull/7){:target="_blank"}   |      |       |   Basic support for NFTs    |     |
-
-
+| NULS  |  NFT     |  [NRC-721](https://docs.nuls.io/Docs/s_nrc721.html){:target="_blank"}   |      |        |   standard interface for NFTs    |     |
+| EOS  |  NFT     |  No Official Standard for NFT    |      |       |       |     |
+| EOS  |  NFT Standard Proposal   |  [Unico EOS](https://github.com/unicoeos/eosio.nft){:target="_blank"}   |      |       |  Basic support for NFTs    |    |
+| EOS  |  Standard for Fungible and Non-Fungible Tokens    |  [dGood](https://github.com/MythicalGames/dgoods){:target="_blank"}    |      |       |   Basic support for NFTs and other token types    |   https://medium.com/dgoods/dgoods-v1-0-public-beta-release-72f896ad7aed  |
+| Tezos  |  Standard for NFTs and other Token Types  |  [FA2 (TZIP-12) - Multi-Asset Interface](https://gitlab.com/tzip/tzip/-/blob/master/proposals/tzip-12/tzip-12.md){:target="_blank"}   |      |       |   https://medium.com/@TQTezos/introducing-fa2-a-multi-asset-interface-for-tezos-55173d505e5f    |     |
+| Tezos  |  NFT Implementation following FA2 (TZIP-12)     |  [tzNFT - not a standard](https://medium.com/@TQTezos/tznft-non-fungible-tokens-on-tezos-using-fa2-b1ab11185ec1){:target="_blank"}   |      |       |       |   https://github.com/tqtezos/nft-tutorial  |
