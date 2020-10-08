@@ -8,6 +8,9 @@ This open collaboration was initiated by the [Interchain Foundation](https://int
 
 Projects participating in this effort include:
 
+* ICF/Cosmos
+* ixo World
+* Persitence One
 * tBTC Keep Network
 * Simply VC
 * Regen Network
