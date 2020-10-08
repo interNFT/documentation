@@ -1,6 +1,6 @@
 # Existing NFT Standards
 
-## Existing NFT Standards in Ethereum 
+## Existing NFT Standards on Ethereum 
 
 | Type     |  Standard / Name   |   Compatibility   |   Example Usage    |   Purpose    |   Comments / Links  |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
@@ -11,5 +11,14 @@
 | The Dank Standard     |  [ERC-420](https://medium.com/pepedapp/erc-420%C2%B9-the-dank-standard-83d7bb5fe18e){:target="_blank"}   |      |       |   Legacy standard proposal. This standard was proposed by the PepeDapp team. Designed with digital trading cards in mind. It takes into account that in a deck of trading cards    |     |
 | Renting Standard for Rival, Non-Fungible Tokens     |  [ERC-809](https://github.com/ethereum/EIPs/issues/809){:target="_blank"}    |      |       |   Standard for renting out your NFT’s, by creating an API to allow any “rival” NFT to be rented.    |     |
 | Two Tiered Token Structure for Non-fungible Asset Ownership and Rental Rights     |  [ERC-1201](https://github.com/ethereum/EIPs/issues/1201){:target="_blank"}   |      |   Think of it as follows: (i) ERC-721 creates an NFT for your house. (ii) ERC-809 creates a standard set of commands allowing you to rent said house. (iii) ERC-1201 tokenises this right, and in a practical sense, means the leaseholder could sub-lease your house, simply by exchanging the token.    |   Tokenise rental rights, as opposed to just allowing for them. This creates a means for the rented NFT to be easily exchanged between parties.    |     |
+| Composable Non-Fungible Token Standard     |  [ERC-998](https://github.com/ethereum/EIPs/issues/998){:target="_blank"}   |     |      |   A standard for any NFT to own another ERC-721 NFT or ERC-20 fungible tokens.    |      |
+| Re-Fungible Token     |  [ERC-1633](https://github.com/ethereum/EIPs/pull/1633){:target="_blank"}   |      |      |   NFT Fractional Ownership via ERC-20 token    |     |
+
+
+## Other Existing NFT Standards
+
+| Network  |  Type     |  Standard / Name   |   Compatibility   |   Example Usage    |   Purpose    |   Comments / Links  |
+| ------------- |:------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| BinanceChain  |  NFT     |  [BEP-7](https://github.com/binance-chain/BEPs/pull/7){:target="_blank"}   |      |       |   Basic support for NFTs    |     |
 
 
