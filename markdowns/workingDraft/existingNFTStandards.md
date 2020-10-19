@@ -27,4 +27,4 @@
 | Tezos  |  Standard for NFTs and other Token Types  |  [FA2 (TZIP-12) - Multi-Asset Interface](https://gitlab.com/tzip/tzip/-/blob/master/proposals/tzip-12/tzip-12.md){:target="_blank"}   |      |       |   https://medium.com/@TQTezos/introducing-fa2-a-multi-asset-interface-for-tezos-55173d505e5f    |     |
 | Tezos  |  NFT Implementation following FA2 (TZIP-12)     |  [tzNFT - not a standard](https://medium.com/@TQTezos/tznft-non-fungible-tokens-on-tezos-using-fa2-b1ab11185ec1){:target="_blank"}   |      |       |       |   https://github.com/tqtezos/nft-tutorial  |
 | CosmWasm  |  NFT     |  [CW721](https://github.com/CosmWasm/cosmwasm-plus/blob/master/packages/cw721/README.md){:target="_blank"}   |      |       |       |     |
-| Secret Network  |  Private NFT     |  [SNIP-721](https://github.com/SecretFoundation/SNIPs/blob/master/SNIP-721.md){:target="_blank"}   |      |       |   The only Private Non-Fungible Tokens    |     |
+| Secret Network - Cosmos |  Private NFT     |  [SNIP-721](https://github.com/SecretFoundation/SNIPs/blob/master/SNIP-721.md){:target="_blank"}   |      |       |   The only Private Non-Fungible Tokens    |     |
