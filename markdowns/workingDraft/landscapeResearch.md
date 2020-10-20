@@ -10,7 +10,7 @@ The number of NFT Smart Contract rose from a few dozen contracts published every
 
 In January 2020, [OpenSea](https://opensea.io/blog/guides/non-fungible-tokens/){:target="_blank"} estimated the secondary market for NFTs to $2–3M USD in volume per month. Whereas now (October 2020), [nonfungible.com](https://www.nonfungible.com/market/history) estimates it to $10M.
 
-While most of the experiments in NFTs have been in collectibles and games, other use cases gradually are emerging too such as Intellectual Property, Decentralized Naming Services and Ticketing Services.
+While most of the experiments in NFTs have been in collectibles and games, other use cases are rapidly emerging such as Intellectual Property, Decentralized Naming Services and Ticketing Services.
 
 
 ## Existing Standards for NFTs

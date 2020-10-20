@@ -14,7 +14,9 @@ This Working Group believes in a future with many blockchains interoperating wit
 
 This open collaboration was initiated by the [Interchain Foundation](https://interchain.io/) and is facilitated by [ixo (The Internet of Impact)](https://ixo.world/) together with [Persistence One (Protocol Powering Institutional DeFi)](https://persistence.one/). 👉 [Read the official announcement on the ICF blog](https://blog.cosmos.network/interchain-standards-for-non-fungible-tokens-and-metadata-fbf90375c38b)
 
-Projects participating in this effort include:
+## Participating Projects
+
+This is a non-exhaustive list of the projects involved in this effort. We have mostly been in touch with implementers to learn from use cases so far, infrastructure projects are now also showing interest in building these standards.
 
 * ICF/Cosmos
 * ixo World
@@ -32,3 +34,6 @@ Projects participating in this effort include:
 * Centrifuge
 * Akash Network
 * Aleph.im
+* Agoric
+
+If you want to participate too, please [get involved](/workingGroup/gettingInvolved.md).
