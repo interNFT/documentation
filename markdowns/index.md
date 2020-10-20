@@ -32,3 +32,5 @@ Projects participating in this effort include:
 * Centrifuge
 * Akash Network
 * Aleph.im
+* Agoric
+
