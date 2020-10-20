@@ -8,7 +8,7 @@
 ## Calls
 
 * [WG Community Calls](/workingGroup/meetings/) : regular verbal project updates and discussions
-* [Joing the next WG Community Calls by filling in this form](https://forms.gle/c3zS3EST17qL41Zy7) : we will send you a calendar invitation
+* [Joing the next WG Community Calls by filling in this form](https://forms.gle/c3zS3EST17qL41Zy7){:target="_blank"} : we will send you a calendar invitation
 * [Youtube Channel](https://www.youtube.com/channel/UCEmFhwNH8AiHR8dNSZ9fB0w){:target="_blank"} : watch recording of our WG calls
 
 ## Chats
