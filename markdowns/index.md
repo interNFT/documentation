@@ -16,6 +16,8 @@ This open collaboration was initiated by the [Interchain Foundation](https://int
 
 ## Participating Projects
 
+This is a non-exhaustive list of the projects involved in this effort. We have mostly been in touch with implementers to learn from use cases so far, infrastructure projects are now also showing interest in building these standards.
+
 * ICF/Cosmos
 * ixo World
 * Persitence One
@@ -34,4 +36,4 @@ This open collaboration was initiated by the [Interchain Foundation](https://int
 * Aleph.im
 * Agoric
 
-If you want to participate too, please [get involved](/workingGroup/gettingInvolved.md)
+If you want to participate too, please [get involved](/workingGroup/gettingInvolved.md).
