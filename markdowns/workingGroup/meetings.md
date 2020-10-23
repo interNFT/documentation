@@ -6,6 +6,7 @@ Note that the dates are estimates and may vary. Double check with us on Discord 
 
 **4th September 2020**
 
+Agenda:
 1. Welcome, Introduction of ICF + Persistence + IXO collaboration - Deepanshu - 5 mins
 2. Interchain vision for NFTs & Metadata - Billy - 5 mins  - 5 mins
 3. Scope and Objectives - Shaun - 5 mins
@@ -58,6 +59,7 @@ InterNFT.org —> domain where we will publicly share our efforts; that includes
 
 **25th September 2020**
 
+Agenda:
 1. Welcome, short project intro and last call summary - Billy - 5min
 2. Scope and Objectives - where we are now - Shaun - 5min
 3. The InterNFT.org website is up and running - Deepanshu - 5min
@@ -99,8 +101,39 @@ FYI: Calls are moved to Thursdays from now on
 
 **22nd October 2020**
 
-1. Tech Standard for NFT Metadata
-2. Blockchain-Agnostic Technical Standard for using NFT MetaData to represent assets with identified subjects and data resources
+Agenda Part I:
+1. Welcome to new members of the group - Billy
+2. Map - where we are now - Shaun
+3. RFC-1 The InterNFT RFC Process - Deepanshu
+4. RFC-2  Use Cases & Requirements - Shaun
+5.a Drafting process for NFT Metadata Standard Joe
+5.b Drafting process for NFT Interface Standard - Deepanshu 
+6. Call for contributions - Billy
+
+Agenda Part II:
+1. Dean Tribble of Agoric on “NFTs & Object Capabilities”
+2. James Waugh of Secret Network on “NFTs and Privacy”
+
+Slides of Call 3: https://github.com/interNFT/documentation/tree/master/resources/ICF_NFT_WG_-_Call_3_-_22.10.2020.pdf
+
+Video Recording of Call 3: coming soon...
+
+Minutes of Call 3:
+
+```
+Part I:
+1. Welcome, v short project intro and project scope reminder - Billy - 5min
+2. Where we are now: the use case document and data collection - Shaun
+3. RFC-1 The InterNFT RFC Process: presentation of the RFC process by Deepanshu. c.f. https://github.com/interNFT/nft-rfc and https://github.com/orgs/interNFT/projects/3
+4. RFC-2 Use Cases & Requirements: presentation of the Document by Shaun - https://github.com/interNFT/use-cases/blob/main/NFT-REC-002-use-cases.md
+5.a Drafting process for NFT Metadata Standard by Joe - Timeline, Drafting initial Doc, Triaging PRs, Participation Requirements
+5.b Drafting process for NFT Interface Standard by Deepanshu - Technical Expectations, Initial Prototype, Working Draft
+6. Call for contributions - Billy
+
+Part II:
+1. Dean Tribble and Mark Miller of Agoric on “NFTs & Object Capabilities” - past work and how it fits into NFTs, ongoing work with bita.studio, use cases, engineering, object capability system, composition reasoning under mutualy suspicious assumptions, e-rights, rich composition, programing-language abstraction layer
+2. James Waugh of Secret Network on “NFTs and Privacy” - Secret Network presentation, Private NFTs with SNIP-721 https://github.com/SecretFoundation/SNIPs/blob/master/SNIP-721.md, Encryption mechanism overview, Special features
+```
 
 ## Call 4
 

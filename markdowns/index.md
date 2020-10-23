@@ -31,6 +31,7 @@ This is a non-exhaustive list of the projects involved in this effort. We have m
 * Kusama/Polkadot
 * Iris Network
 * IOV Starname
+* Energy Web Foundation - Micha Roon
 * Centrifuge
 * Akash Network
 * Aleph.im
