@@ -1,12 +1,12 @@
 # Welcome
 
-This website is documenting the efforts around the **Interchain Standards for Non-Fungible Tokens and Metadata**. 
+This website is documenting the efforts around the **Interchain Standards for Non-Fungible Tokens and Metadata**.
 
-**Why are we tackling Metadata and NFTs standardization together?** 
+**Why are we tackling Metadata and NFTs standardization together?**
 
 Metadata is what makes an NFT valuable, it is the glue between the token and the asset it represents. Improving both standards will help NFTs reach their full potential faster.
 
-**Why do we want these standards to be blockchain agnostic and interoperable?** 
+**Why do we want these standards to be blockchain agnostic and interoperable?**
 
 This Working Group believes in a future with many blockchains interoperating with one another, that includes NFTs going from one chain to another. By building common standards together we can make this happen faster.
 
@@ -20,7 +20,7 @@ This is a non-exhaustive list of the projects involved in this effort. We have m
 
 * ICF/Cosmos
 * ixo World
-* Persitence One
+* Persistence One
 * tBTC Keep Network
 * Simply VC
 * Secret Network
@@ -32,6 +32,7 @@ This is a non-exhaustive list of the projects involved in this effort. We have m
 * Iris Network
 * IOV Starname
 * Energy Web Foundation - Micha Roon
+* Emblem Vault - Shannon Code
 * Centrifuge
 * Akash Network
 * Aleph.im
