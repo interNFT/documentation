@@ -22,6 +22,7 @@ This is a non-exhaustive list of the projects involved in this effort. We have m
 * ixo World
 * Persistence One
 * tBTC Keep Network
+* Sentinel
 * Simply VC
 * Secret Network
 * Regen Network
@@ -31,6 +32,7 @@ This is a non-exhaustive list of the projects involved in this effort. We have m
 * Kusama/Polkadot
 * Iris Network
 * IOV Starname
+* FreeFlix Media 
 * Energy Web Foundation - Micha Roon
 * Emblem Vault - Shannon Code
 * Centrifuge
