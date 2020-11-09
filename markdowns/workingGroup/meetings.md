@@ -163,12 +163,12 @@ interNFT + Metadata Meeting 2020.11.05
 3. Use Cases </br>
   a. https://github.com/interNFT/use-cases/issues </br>
   b. https://github.com/interNFT/use-cases/issues/3 </br>
-    Difference between Re-fungible and Divisible
+      Difference between Re-fungible and Divisible </br>
   d. https://github.com/interNFT/use-cases/pulls </br>
   e. https://github.com/interNFT/use-cases/pull/5 </br>
-    Update NFT-REC-002-use-cases.md </br>
+      Update NFT-REC-002-use-cases.md </br>
   f. https://github.com/interNFT/use-cases/pull/4 </br>
-    Add refungible to terminology
+      Add refungible to terminology
 
 #### Use-case presentations from participants
 
