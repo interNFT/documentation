@@ -154,29 +154,29 @@ interNFT + Metadata Meeting 2020.11.05
 1. https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-003_native_NFT_interface
 
 #### Status of Github Issues & PRs
-1. Documentation
-  a. https://github.com/interNFT/documentation/issues
+1. Documentation </br>
+  a. https://github.com/interNFT/documentation/issues </br>
   b. https://github.com/interNFT/documentation/pulls
-2. NFT-RFC
-  a. https://github.com/interNFT/nft-rfc/issues
+2. NFT-RFC </br>
+  a. https://github.com/interNFT/nft-rfc/issues </br>
   b. https://github.com/interNFT/nft-rfc/pulls
-3. Use Cases
-  a. https://github.com/interNFT/use-cases/issues
-  b. https://github.com/interNFT/use-cases/issues/3
+3. Use Cases </br>
+  a. https://github.com/interNFT/use-cases/issues </br>
+  b. https://github.com/interNFT/use-cases/issues/3 </br>
     Difference between Re-fungible and Divisible
-  d. https://github.com/interNFT/use-cases/pulls
-  e. https://github.com/interNFT/use-cases/pull/5
-    Update NFT-REC-002-use-cases.md
-  f. https://github.com/interNFT/use-cases/pull/4
+  d. https://github.com/interNFT/use-cases/pulls </br>
+  e. https://github.com/interNFT/use-cases/pull/5 </br>
+    Update NFT-REC-002-use-cases.md </br>
+  f. https://github.com/interNFT/use-cases/pull/4 </br>
     Add refungible to terminology
 
 #### Use-case presentations from participants
 
-##### Get Protocol
+#### Get Protocol
 * Kasper Keunen
 * https://docs.google.com/presentation/d/1Exobz-__fQY4z4oduKCjKgdIkl1qYhjoTxBnU-GZaEs/edit?usp=sharing   
 
-##### FreeFlix
+#### FreeFlix
 * SistlaAbhishek and Dayakar Reddy 
 * https://www.notion.so/Event-InterNFT-meetup-09ac70df015e4d39a7f8d4586b692fff 	
 
