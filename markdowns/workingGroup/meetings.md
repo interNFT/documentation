@@ -151,9 +151,9 @@ interNFT + Metadata Meeting 2020.11.05 Summary:
 
     a. Documentation
 
-      i. https://github.com/interNFT/documentation/issues
+        i. https://github.com/interNFT/documentation/issues
 
-      ii. https://github.com/interNFT/documentation/pulls
+        ii. https://github.com/interNFT/documentation/pulls
 
 
 
