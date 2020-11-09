@@ -143,6 +143,7 @@ interNFT + Metadata Meeting 2020.11.05 Summary:
 
 
 1. First look at the draft Interchain NFT Interface Standard (NFT-RFC003)
+
      a. https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-003_native_NFT_interface
 
 
