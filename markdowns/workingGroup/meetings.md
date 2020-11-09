@@ -144,8 +144,8 @@ interNFT + Metadata Meeting 2020.11.05
 ### Agenda
 1. First look at the draft Interchain NFT Interface Standard (NFT-RFC003)
 2. Status of Github Issues & PRs
-3. Use-case presentations from participants: 
-  a. Get Protocol - Kasper Keunen
+3. Use-case presentations from participants: </br>
+  a. Get Protocol - Kasper Keunen</br>
   b. FreeFlix - SistlaAbhishek and Dayakar Reddy 
 
 ### Notes
