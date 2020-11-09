@@ -141,6 +141,8 @@ Part II:
 
 interNFT + Metadata Meeting 2020.11.05 
 
+Slides for Call 4: https://github.com/ericaconnell/documentation/raw/master/resources/ICF_NFT_WG_-_Call_4_-_2020.11.05.pdf
+
 ### Agenda
 1. First look at the draft Interchain NFT Interface Standard (NFT-RFC003)
 2. Status of Github Issues & PRs
