@@ -139,62 +139,47 @@ Part II:
 
 **5th November 2020**
 
-interNFT + Metadata Meeting 2020.11.05 Summary: 
+interNFT + Metadata Meeting 2020.11.05 
 
-
+### Agenda
 1. First look at the draft Interchain NFT Interface Standard (NFT-RFC003)
-
-     a. https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-003_native_NFT_interface
-
-
 2. Status of Github Issues & PRs
-
-    a. Documentation
-
-        i. https://github.com/interNFT/documentation/issues
-
-        ii. https://github.com/interNFT/documentation/pulls
-
-
-
-NFT-RFC
-
-https://github.com/interNFT/nft-rfc/issues
-
-https://github.com/interNFT/nft-rfc/pulls
-
-  
-
-Use Cases
-
-https://github.com/interNFT/use-cases/issues
-
-https://github.com/interNFT/use-cases/issues/3
-
-Difference between Re-fungible and Divisible
-
-https://github.com/interNFT/use-cases/pulls
-
- https://github.com/interNFT/use-cases/pull/5
-
-Update NFT-REC-002-use-cases.md
-
-https://github.com/interNFT/use-cases/pull/4
-
-Add refungible to terminology
-
-
 3. Use-case presentations from participants: 
+  a. Get Protocol - Kasper Keunen
+  b. FreeFlix - SistlaAbhishek and Dayakar Reddy 
 
+### Notes
 
+#### First look at the draft Interchain NFT Interface Standard (NFT-RFC003)
+1. https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-003_native_NFT_interface
 
-Get Protocol - Kasper Keunen  https://docs.google.com/presentation/d/1Exobz-__fQY4z4oduKCjKgdIkl1qYhjoTxBnU-GZaEs/edit?usp=sharing   
+#### Status of Github Issues & PRs
+1. Documentation
+  a. https://github.com/interNFT/documentation/issues
+  b. https://github.com/interNFT/documentation/pulls
+2. NFT-RFC
+  a. https://github.com/interNFT/nft-rfc/issues
+  b. https://github.com/interNFT/nft-rfc/pulls
+3. Use Cases
+  a. https://github.com/interNFT/use-cases/issues
+  b. https://github.com/interNFT/use-cases/issues/3
+    Difference between Re-fungible and Divisible
+  d. https://github.com/interNFT/use-cases/pulls
+  e. https://github.com/interNFT/use-cases/pull/5
+    Update NFT-REC-002-use-cases.md
+  f. https://github.com/interNFT/use-cases/pull/4
+    Add refungible to terminology
 
+#### Use-case presentations from participants
 
+##### Get Protocol
+* Kasper Keunen
+* https://docs.google.com/presentation/d/1Exobz-__fQY4z4oduKCjKgdIkl1qYhjoTxBnU-GZaEs/edit?usp=sharing   
 
-FreeFlix - SistlaAbhishek and Dayakar Reddy 
+##### FreeFlix
+* SistlaAbhishek and Dayakar Reddy 
+* https://www.notion.so/Event-InterNFT-meetup-09ac70df015e4d39a7f8d4586b692fff 	
 
-https://www.notion.so/Event-InterNFT-meetup-09ac70df015e4d39a7f8d4586b692fff 	
 
 ## Call 5
 
