@@ -149,12 +149,11 @@ interNFT + Metadata Meeting 2020.11.05 Summary:
 
 2. Status of Github Issues & PRs
 
+    a. Documentation
 
-Documentation
+      i. https://github.com/interNFT/documentation/issues
 
-https://github.com/interNFT/documentation/issues
-
-https://github.com/interNFT/documentation/pulls
+      ii. https://github.com/interNFT/documentation/pulls
 
 
 
