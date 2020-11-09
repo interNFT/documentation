@@ -135,12 +135,66 @@ Part II:
 2. James Waugh of Secret Network on “NFTs and Privacy” - Secret Network presentation, Private NFTs with SNIP-721 https://github.com/SecretFoundation/SNIPs/blob/master/SNIP-721.md, Encryption mechanism overview, Special features
 ```
 
-## Call 4
+## Working Group for Interchain NFT + Metadata Call 4
 
 **5th November 2020**
+interNFT + Metadata Meeting 2020.11.05 Summary: 
 
-1. Tech Standard for NFT Metadata: progress update
-2. Interface Standard for Implementing NFTs in the Cosmos SDK
+
+1. First look at the draft Interchain NFT Interface Standard (NFT-RFC003)
+
+https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-003_native_NFT_interface
+
+
+2. Status of Github Issues & PRs
+
+
+Documentation
+
+https://github.com/interNFT/documentation/issues
+
+https://github.com/interNFT/documentation/pulls
+
+
+
+NFT-RFC
+
+https://github.com/interNFT/nft-rfc/issues
+
+https://github.com/interNFT/nft-rfc/pulls
+
+  
+
+Use Cases
+
+https://github.com/interNFT/use-cases/issues
+
+https://github.com/interNFT/use-cases/issues/3
+
+Difference between Re-fungible and Divisible
+
+https://github.com/interNFT/use-cases/pulls
+
+ https://github.com/interNFT/use-cases/pull/5
+
+Update NFT-REC-002-use-cases.md
+
+https://github.com/interNFT/use-cases/pull/4
+
+Add refungible to terminology
+
+
+3. Use-case presentations from participants: 
+
+
+
+Get Protocol - Kasper Keunen  https://docs.google.com/presentation/d/1Exobz-__fQY4z4oduKCjKgdIkl1qYhjoTxBnU-GZaEs/edit?usp=sharing   
+
+
+
+FreeFlix - SistlaAbhishek and Dayakar Reddy 
+
+https://www.notion.so/Event-InterNFT-meetup-09ac70df015e4d39a7f8d4586b692fff 	
 
 ## Call 5
 
