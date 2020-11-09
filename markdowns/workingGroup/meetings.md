@@ -138,12 +138,12 @@ Part II:
 ## Working Group for Interchain NFT + Metadata Call 4
 
 **5th November 2020**
+
 interNFT + Metadata Meeting 2020.11.05 Summary: 
 
 
 1. First look at the draft Interchain NFT Interface Standard (NFT-RFC003)
-
-https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-003_native_NFT_interface
+  https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-003_native_NFT_interface
 
 
 2. Status of Github Issues & PRs
