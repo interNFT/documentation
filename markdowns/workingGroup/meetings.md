@@ -1,8 +1,8 @@
-# WG Meetings
+# Working Group Meetings
 
 Note that the dates are estimates and may vary. Double check with us on Discord for the next WG Meeting.
 
-## Call 1
+## Working Group for Interchain NFT + Metadata Call 1
 
 **4th September 2020**
 
@@ -55,7 +55,7 @@ Karthik Bupathi:
 InterNFT.org —> domain where we will publicly share our efforts; that includes a forum for ongoing discussions and a single source of truth for up-to-date information about latest decisions, events, recordings, documents, updates, and so on.
 ```
 
-## Call 2
+## Working Group for Interchain NFT + Metadata Call 2
 
 **25th September 2020**
 
@@ -97,7 +97,7 @@ Deepanshu -> discussion could start on an forum for non-technical audience to ea
 FYI: Calls are moved to Thursdays from now on
 ```
 
-## Call 3
+## Working Group for Interchain NFT + Metadata Call 3
 
 **22nd October 2020**
 
@@ -183,7 +183,7 @@ Slides for Call 4: https://github.com/ericaconnell/documentation/raw/master/reso
 * https://www.notion.so/Event-InterNFT-meetup-09ac70df015e4d39a7f8d4586b692fff 	
 
 
-## Call 5
+## Working Group for Interchain NFT + Metadata Call 5
 
 **19th November 2020**
 
@@ -191,7 +191,7 @@ Slides for Call 4: https://github.com/ericaconnell/documentation/raw/master/reso
 2. Interface Standard for Implementing NFTs in the Cosmos SDK: progress update
 3. ZKP and private/anonymous NFTs
 
-## Call 6
+## Working Group for Interchain NFT + Metadata Call 6
 
 **3rd December 2020**
 
