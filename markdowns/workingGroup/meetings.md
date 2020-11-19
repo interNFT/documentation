@@ -1,8 +1,8 @@
-# WG Meetings
+# Working Group Meetings
 
 Note that the dates are estimates and may vary. Double check with us on Discord for the next WG Meeting.
 
-## Call 1
+## Working Group for Interchain NFT + Metadata Call 1
 
 **4th September 2020**
 
@@ -55,7 +55,7 @@ Karthik Bupathi:
 InterNFT.org —> domain where we will publicly share our efforts; that includes a forum for ongoing discussions and a single source of truth for up-to-date information about latest decisions, events, recordings, documents, updates, and so on.
 ```
 
-## Call 2
+## Working Group for Interchain NFT + Metadata Call 2
 
 **25th September 2020**
 
@@ -97,7 +97,7 @@ Deepanshu -> discussion could start on an forum for non-technical audience to ea
 FYI: Calls are moved to Thursdays from now on
 ```
 
-## Call 3
+## Working Group for Interchain NFT + Metadata Call 3
 
 **22nd October 2020**
 
@@ -135,14 +135,55 @@ Part II:
 2. James Waugh of Secret Network on “NFTs and Privacy” - Secret Network presentation, Private NFTs with SNIP-721 https://github.com/SecretFoundation/SNIPs/blob/master/SNIP-721.md, Encryption mechanism overview, Special features
 ```
 
-## Call 4
+## Working Group for Interchain NFT + Metadata Call 4
 
 **5th November 2020**
 
-1. Tech Standard for NFT Metadata: progress update
-2. Interface Standard for Implementing NFTs in the Cosmos SDK
+interNFT + Metadata Meeting 2020.11.05 
 
-## Call 5
+Slides for Call 4: https://github.com/ericaconnell/documentation/raw/master/resources/ICF_NFT_WG_-_Call_4_-_2020.11.05.pdf
+
+### Agenda
+1. First look at the draft Interchain NFT Interface Standard (NFT-RFC003)
+2. Status of Github Issues & PRs
+3. Use-case presentations from participants: </br>
+  a. Get Protocol - Kasper Keunen</br>
+  b. FreeFlix - SistlaAbhishek and Dayakar Reddy 
+
+### Notes
+
+#### First look at the draft Interchain NFT Interface Standard (NFT-RFC003)
+1. https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-003_native_NFT_interface
+
+#### Status of Github Issues & PRs
+1. Documentation </br>
+  a. https://github.com/interNFT/documentation/issues </br>
+  b. https://github.com/interNFT/documentation/pulls
+2. NFT-RFC </br>
+  a. https://github.com/interNFT/nft-rfc/issues </br>
+  b. https://github.com/interNFT/nft-rfc/pulls
+3. Use Cases </br>
+  a. https://github.com/interNFT/use-cases/issues </br>
+  b. https://github.com/interNFT/use-cases/issues/3 </br>
+      Difference between Re-fungible and Divisible </br>
+  d. https://github.com/interNFT/use-cases/pulls </br>
+  e. https://github.com/interNFT/use-cases/pull/5 </br>
+      Update NFT-REC-002-use-cases.md </br>
+  f. https://github.com/interNFT/use-cases/pull/4 </br>
+      Add refungible to terminology
+
+#### Use-case presentations from participants
+
+#### Get Protocol
+* Kasper Keunen
+* https://docs.google.com/presentation/d/1Exobz-__fQY4z4oduKCjKgdIkl1qYhjoTxBnU-GZaEs/edit?usp=sharing   
+
+#### FreeFlix
+* SistlaAbhishek and Dayakar Reddy 
+* https://www.notion.so/Event-InterNFT-meetup-09ac70df015e4d39a7f8d4586b692fff 	
+
+
+## Working Group for Interchain NFT + Metadata Call 5
 
 **19th November 2020**
 
@@ -150,7 +191,7 @@ Part II:
 2. Interface Standard for Implementing NFTs in the Cosmos SDK: progress update
 3. ZKP and private/anonymous NFTs
 
-## Call 6
+## Working Group for Interchain NFT + Metadata Call 6
 
 **3rd December 2020**
 
