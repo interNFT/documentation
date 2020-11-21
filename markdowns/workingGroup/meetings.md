@@ -3,7 +3,7 @@
 Note that the dates are estimates and may vary. Double check with us on Discord for the next WG Meeting.
 
 ## Working Group for Interchain NFT + Metadata Call 1
-
+  
 **4th September 2020**
 
 Agenda:
@@ -189,29 +189,45 @@ Slides for Call 4: https://github.com/ericaconnell/documentation/raw/master/reso
 Slides available at: https://docs.google.com/presentation/d/1mMPIVfjFBOh9qHL5aW4Xn20WnP3TFaGiOAdCOwvhyIk/edit#slide=id.p
 
 ### Summary 
-1.	Review layer model
-2.	Issues & PRs
-  a.	Use Cases
-      i.	https://github.com/interNFT/use-cases/issues/3 
-      Difference between Re-fungible and Divisible
-      ii.	https://github.com/interNFT/use-cases/pull/5
-      Update NFT-REC-002-use-cases.md
-      iii.	https://github.com/interNFT/use-cases/pull/4
-      Add refungible to terminology 
-3.	New Theater Ticket User Story
-  a.	https://docs.google.com/document/d/1WJslQDXRWubmjqK7ot8v3v7rjwhSr3Anm3cKfRco0b8/edit#heading=h.busdkf414s5c
-  b.	Review and discussion
-      i.	Open Design Question (for app users, not the spec): Authentication & verification 
-         1.	Where do they take place, by whom, using which system
-         2.	How does this resonate with object capabilities
-      ii.	Invite to continue conversation on metadata channel on discord  
-4.	Next subgroup call - Dec 10, 2020
-  a.	Room for 4-6 other user stories 
-  b.	Propose something! 
-      i.	Telegram: InterNFT Working Group
-      ii.	 Discord: https://discord.com/invite/W8trcGV
-      iii.	Submit a pull request: http://internft.org/ 
-  c.	Encourage others to github for conversation development 
+<ol>
+<li>	Review layer model</li>
+<li>	Issues & PRs</li>
+  <ol type="a">
+    <li >	Use Cases
+    <ol type="i">
+      <li>	https://github.com/interNFT/use-cases/issues/3 <br/>
+            Difference between Re-fungible and Divisible</li>
+      <li>	https://github.com/interNFT/use-cases/pull/5<br/>
+            Update NFT-REC-002-use-cases.md</li>
+      <li>	https://github.com/interNFT/use-cases/pull/4<br/>
+            Add refungible to terminology</li>
+    </ol></li>
+  </ol>
+<li>	New Theater Ticket User Story
+  <ol type="a">
+  <li>	https://docs.google.com/document/d/1WJslQDXRWubmjqK7ot8v3v7rjwhSr3Anm3cKfRco0b8/edit#heading=h.busdkf414s5c</li>
+  <li>	Review and discussion
+    <ol type="i">
+      <li> Open Design Question (for app users, not the spec): Authentication & verification
+        <ol type="1">
+          <li>	Where do they take place, by whom, using which system</li>
+          <li>	How does this resonate with object capabilities</li>
+        </ol></li>
+      <li>	Invite to continue conversation on metadata channel on discord </li>
+    </ol></li>
+  </ol></li>
+<li> Next subgroup call - Dec 10, 2020
+  <ol type="a">
+    <li>	Room for 4-6 other user stories </li>
+    <li>	Propose something! 
+      <ol type="i">
+        <li>	Telegram: InterNFT Working Group</li>
+        <li>	 Discord: https://discord.com/invite/W8trcGV</li>
+        <li>	Submit a pull request: http://internft.org/</li>
+      </ol>
+    <li>	Encourage others to github for conversation development</li>
+  </ol>
+</ol>
 
 
 ## Working Group for Interchain NFT + Metadata Call 5
