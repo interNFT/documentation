@@ -182,6 +182,37 @@ Slides for Call 4: https://github.com/ericaconnell/documentation/raw/master/reso
 * SistlaAbhishek and Dayakar Reddy 
 * https://www.notion.so/Event-InterNFT-meetup-09ac70df015e4d39a7f8d4586b692fff 	
 
+## Metadata Subgroup Call B
+
+**12th Nov 2020**
+
+Slides available at: https://docs.google.com/presentation/d/1mMPIVfjFBOh9qHL5aW4Xn20WnP3TFaGiOAdCOwvhyIk/edit#slide=id.p
+
+### Summary 
+1.	Review layer model
+2.	Issues & PRs
+  a.	Use Cases
+      i.	https://github.com/interNFT/use-cases/issues/3 
+      Difference between Re-fungible and Divisible
+      ii.	https://github.com/interNFT/use-cases/pull/5
+      Update NFT-REC-002-use-cases.md
+      iii.	https://github.com/interNFT/use-cases/pull/4
+      Add refungible to terminology 
+3.	New Theater Ticket User Story
+  a.	https://docs.google.com/document/d/1WJslQDXRWubmjqK7ot8v3v7rjwhSr3Anm3cKfRco0b8/edit#heading=h.busdkf414s5c
+  b.	Review and discussion
+      i.	Open Design Question (for app users, not the spec): Authentication & verification 
+         1.	Where do they take place, by whom, using which system
+         2.	How does this resonate with object capabilities
+      ii.	Invite to continue conversation on metadata channel on discord  
+4.	Next subgroup call - Dec 10, 2020
+  a.	Room for 4-6 other user stories 
+  b.	Propose something! 
+      i.	Telegram: InterNFT Working Group
+      ii.	 Discord: https://discord.com/invite/W8trcGV
+      iii.	Submit a pull request: http://internft.org/ 
+  c.	Encourage others to github for conversation development 
+
 
 ## Working Group for Interchain NFT + Metadata Call 5
 
