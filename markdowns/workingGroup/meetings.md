@@ -229,14 +229,91 @@ Slides available at: https://docs.google.com/presentation/d/1mMPIVfjFBOh9qHL5aW4
   </ol>
 </ol>
 
-
+---
 ## Working Group for Interchain NFT + Metadata Call 5
 
 **19th November 2020**
 
+### AGENDA
 1. Tech Standard for NFT Metadata: progress update
 2. Interface Standard for Implementing NFTs in the Cosmos SDK: progress update
 3. ZKP and private/anonymous NFTs
+
+### SUMMARY
+**Part 1: Core Team Update**
+<ol type="1">
+  <li>Welcome & Summary of Progress
+    <ol type="a">
+      <li>Review of NFT flow from use cases to prototype use-case applications</li>
+    </ol>
+  </li>
+  <li>Interchain Resource Identifiers 
+    <ol type="a">
+      <li>Metadata Standard will address
+        <ol type="i">
+          <li>NFT as container of embodied rights 
+            <ol type="1">
+              <li>Object capabilities - theater tix user story</li>
+            </ol>
+          </li>
+          <li>NFT as container of a resource identifier
+            <ol type="1">
+              <li> NFT resource identifiers - token use cases </li>
+            </ol>
+          </li>
+          <li>NFTs as a “native on-chan” resource
+            <ol type="1">
+              <li>**title over physical property</li>
+            </ol>
+          </li>
+        </ol>
+      </li>
+      <li>Recent Innovations
+        <ol type="i"> 
+          <li>URL/URI/IRI</li>
+          <li>DID</li>
+          <li>CID</li>
+          <li>IID</li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+  <li>Metadata Framework review </li> 
+  <li>Status of Github & PR issues
+    <ol type="a">
+      <li><a href="https://github.com/interNFT/documentation/issues">https://github.com/interNFT/documentation/issues</a></li> 
+      <li><a href="https://github.com/interNFT/documentation/pulls">https://github.com/interNFT/documentation/pulls</a></li> 
+      <li><a href="https://github.com/interNFT/nft-rfc/issues">https://github.com/interNFT/nft-rfc/issues</a></li> 
+      <li><a href="https://github.com/interNFT/nft-rfc/pulls">https://github.com/interNFT/nft-rfc/pulls</a></li> 
+      <li><a href="https://github.com/interNFT/use-cases/issues">https://github.com/interNFT/use-cases/issues</a></li> 
+      <li><a href="https://github.com/interNFT/use-cases/pulls">https://github.com/interNFT/use-cases/pulls</a></li>
+    </ol>
+  </li>
+</ol>  
+
+**Part 2: User Stories**
+<ol type="1">
+  <li>Brian Xin with Starry Media
+    <ol type="a"> 
+      <li>NFT Asset Management Platform for Ticketing Industry</li>  
+      <li>E-ticket use case</li>
+    </ol>
+  </li>
+</ol>       
+
+**Part 3: Interchain Resource Identifiers**
+<ol type="1">
+  <li>New standard for identifying unique resources which are non-fungible tokens, which can be operationalized on any blockchain</li>
+  <li>These tokens may contain references to external resources (such as real-world property or individuals), and they have their own namespace to do so.</li> 
+</ol> 
+
+
+### Next WG call:  Dec 3, 2020 
+### Next Metadata call: Dec 10, 2020
+
+---
+
+
 
 ## Working Group for Interchain NFT + Metadata Call 6
 
@@ -246,3 +323,10 @@ Slides available at: https://docs.google.com/presentation/d/1mMPIVfjFBOh9qHL5aW4
 2. Tech Standard for NFT Metadata
 3. Interface Standard for Implementing NFTs in the Cosmos SDK
 4. ZKP and private/anonymous NFTs:
+
+## Metadata Subgroup Call C 
+
+**10th Dec 2020**
+
+
+
