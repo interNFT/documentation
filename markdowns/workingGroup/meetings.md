@@ -314,19 +314,148 @@ Slides available at: https://docs.google.com/presentation/d/1mMPIVfjFBOh9qHL5aW4
 ---
 
 
+## Metadata Subgroup Call C 
+
+**3rd December 2020**
+
+SUMMARY
+<ol type "1"> 
+  <li> 1.Github Issues and Prs 
+    <ol type "a">
+      <li> a.https://github.com/interNFT/use-cases/issues</li>
+      <li> b.https://github.com/interNFT/use-cases/pulls</li>
+      <li> c.https://github.com/interNFT/nft-rfc/issues</li>
+      <li> d.https://github.com/interNFT/nft-rfc/pulls</li>
+    </ol>
+  </li>
+</ol>
+<ol type "2"> 
+  <li> 2.Review of NFT Metadata  Framework
+    <ol type "a">
+      <li> a.This structure let’s us talk about what is metadata and what is data in order to better approach the spec we are building</li>
+      <li>b.We’ve created 2 workstreams</li> 
+        <ol type "i"> 
+          <li>i.Rights </li>
+          <li>ii.Identifiers</li>
+        </ol>
+      </li>
+    </ol> 
+  </li>
+</ol>
+<ol type "3"> 
+  <li>3.NFT Rights</li>
+    <ol type "a"> 
+      <li>a.Rights Instruments</li>
+        <ol type "i">
+          <li>i.Bearer Instruments</li>
+          <li>ii.Registered instrument</li>
+          <li>iii.Negotiable instrument</li>
+          <li>iv.https://www.investopedia.com/terms/b/bearer-instrument.asp </li>
+        </ol>
+      </li>
+    </ol>
+    <ol>
+      <li> b.Technical Approaches </li>
+        <ol type "i">
+          <li>i.Bearer Tokens</li>
+          <li>ii.Constrained Tokens</li>
+            <ol type "1">
+              <li>1.Co-artifacts required for operationalization
+              <li>2.Directed biometrically
+              <li>3.Directed to “legally demonstrable” identity</li>
+              <li>4.Intersubjective Verification process could help here</li>
+            </ol>
+          </li>
+        </ol>
+      </li>c.REQUIREMENT: must be able to specify rights & responsibilities
+        <ol type "i">
+          <li>i.Of the token as a token (property rights)</li>
+            <ol type "1">
+              <li>1.Ownership</li>
+              <li>2.Agency</li>
+              <li>3.Uniqueness</li>
+              <li>4.Divisibility</li>
+            </ol>
+         <li>ii.Afforded an authorized presenter of the token (affordances)</li>
+          <ol type "1">
+              <li>1.Right to a specific seat in a particular venue for a particular show</li>
+              <li>2.Rights of access to information or location</li>
+              <li>3.Right to use a particular service (paywall)</li>
+          </ol>
+        </li>
+      </ol>
+      <li>d.REQUIREMENT: Must be discoverable and understandable </li>
+        <ol type "i">
+          <li>i.Must be verifiable as recognized by appropriate parties</li> 
+          <li>ii.MAY be publicly committed, but privately described</li>
+          <li>iii.Warrantable completeness</li>
+        </ol>
+      <li>e.REQUIREMENT: Must be able to adjust and amend rights and responsibilities</li> 
+        <ol type "i">
+          <li>i.Changes to rights</li>
+          <li>ii.Constraints on changes to rights </li>
+          <li>iii.Attached or detached </li>
+        </ol>
+      </li>
+      <li>f.REQUIREMENT: must be able to operationalize rights</li>
+        <ol type "i"> 	
+          <li>i.Computational evaluation</li>
+          <li>ii.Through external actors/oracles</li>
+        </ol>
+      </li>
+      <li>g.REQUIREMENTS: Security</li>
+        <ol type "i">
+          <li>i.Cryptographically provable ownership</li>
+          <li>ii.Cryptographically delegatable rights </li>
+          <li>iii.Non-repudiable transfers </li>
+          <li>iv.Atomic Transfers</li> 
+          <li>v.Auditability</li>
+          <li>vi.Key Management </li>
+        </ol>
+      <li>h.REQUIREMENTS: Privacy</li>
+        <ol type "i">
+          <li>i.Off-chain, verifiable details</li>
+          <li>ii.Minimally pseudonymous property rights</li>
+            <ol type "1">
+              <li>1.We should be able to work with the level to which bitcoin provides pseudonymity</li>
+              <li>2.Add that we need to enable support for anonymous execution, for some definition of anonymous</li>
+            </ol>   
+          <li>iii.Self-contained namespace</li>
+          <li>iv.Self-contained authentication</li> 
+            <ol type "i">
+              <li>i.Representations - how do we record & communication rights? 
+                <ol type "i">
+                  <li>i.Code
+                  <li>ii.Automatable 
+                  <li>iii.Formal
+                  <li>iv.Human readable
+                </ol>
+              </li>
+            </ol>
+          </li>
+            
+4.Next Metadata Call Dec 17th, 2020
+5.Next Working Group Call Dec 10th, 2020 
+
+
+
+
+
+
+
+
 
 ## Working Group for Interchain NFT + Metadata Call 6
 
-**3rd December 2020**
+**10th December 2020**
+
 
 1. Presentation and Discussion on near final work for:
 2. Tech Standard for NFT Metadata
 3. Interface Standard for Implementing NFTs in the Cosmos SDK
 4. ZKP and private/anonymous NFTs:
 
-## Metadata Subgroup Call C 
 
-**10th Dec 2020**
 
 
 
