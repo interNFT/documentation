@@ -437,11 +437,43 @@ SUMMARY
 
 **10th December 2020**
 
+SUMMARY:
+<ol type = "1"> 
+  <li>Review of use case RFC 002 </li>
+    <ol type = "a">
+      <li>https://github.com/interNFT/use-cases/blob/main/NFT-RFC-002-use-cases.md </li>
+    </ol>
+  <li>Review - Interface (RFC-003, RFC-004) </li>
+    <ol type = "a"> 
+      <li> https://github.com/persistenceOne/assetMantle
+      <li>https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-003_native_NFT_interface 
+      <li>https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-004_interNFT_standard
+    </ol>
+  <li>Review - Rights
+    <ol type = "a">
+      <li>https://github.com/interNFT/nft-rfc/pull/4 
+      <li>Open conversation about defining and including bearer instruments
+        <ol type = "i">
+          <li>Token rights and resource rights </li>
+        </ol>
+      </li>
+    </ol>
+  <li>Next RFCs are not written yet:
+    <ol type = "a">
+      <li>RFC006/Cap 19 (chain agnostic work) write up after next week’s call
+      <li>RFC007 Layer Model needs to be written up to explain in formal terms what we mean by metadata, how the layers in the system work together </li>
+    </ol>  
+  <li>We want to wrap up this phase of work by the end of the year, and start the new year with draft standards
+  <li>Github issues and PRs review 
+    <ol type= "a">
+      <li>Move more of our conversation to github so we can distribute the conversation better for those who cannot make these calls. Please check out the urls and comment there.
+      <li>We have a lot of artifacts now, so the challenge is to get the engagement in conversation and to get people to try and give feedback so we can iterate and move forward,</li>
+    </ol>
+  <li>Next Metadata Subgroup Call - 2020.12.17 
+  <li>Next Working Group Call- 2020.01.14 
+  <li>Call recording for review: https://youtu.be/dc_rCq3xawI
+  
 
-1. Presentation and Discussion on near final work for:
-2. Tech Standard for NFT Metadata
-3. Interface Standard for Implementing NFTs in the Cosmos SDK
-4. ZKP and private/anonymous NFTs:
 
 
 
