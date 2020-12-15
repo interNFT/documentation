@@ -320,140 +320,160 @@ Slides available at: https://docs.google.com/presentation/d/1mMPIVfjFBOh9qHL5aW4
 
 SUMMARY
 <ol type "1"> 
-  <li> 1.Github Issues and Prs 
-    <ol type "a">
-      <li> a.https://github.com/interNFT/use-cases/issues</li>
-      <li> b.https://github.com/interNFT/use-cases/pulls</li>
-      <li> c.https://github.com/interNFT/nft-rfc/issues</li>
-      <li> d.https://github.com/interNFT/nft-rfc/pulls</li>
+  <li>Github Issues and Prs 
+    <ol type = "a">
+      <li>https://github.com/interNFT/use-cases/issues</li>
+      <li>https://github.com/interNFT/use-cases/pulls</li>
+      <li>https://github.com/interNFT/nft-rfc/issues</li>
+      <li>https://github.com/interNFT/nft-rfc/pulls</li>
     </ol>
   </li>
-</ol>
-<ol type "2"> 
-  <li> 2.Review of NFT Metadata  Framework
-    <ol type "a">
-      <li> a.This structure let’s us talk about what is metadata and what is data in order to better approach the spec we are building</li>
-      <li>b.We’ve created 2 workstreams</li> 
-        <ol type "i"> 
-          <li>i.Rights </li>
-          <li>ii.Identifiers</li>
+  <li>Review of NFT Metadata  Framework
+    <ol type="a">
+      <li>This structure let’s us talk about what is metadata and what is data in order to better approach the spec we are building</li>
+      <li>We’ve created 2 workstreams</li> 
+        <ol type="i"> 
+          <li>Rights </li>
+          <li>Identifiers</li>
         </ol>
       </li>
     </ol> 
-  </li>
-</ol>
-<ol type "3"> 
-  <li>3.NFT Rights</li>
-    <ol type "a"> 
-      <li>a.Rights Instruments</li>
-        <ol type "i">
-          <li>i.Bearer Instruments</li>
-          <li>ii.Registered instrument</li>
-          <li>iii.Negotiable instrument</li>
-          <li>iv.https://www.investopedia.com/terms/b/bearer-instrument.asp </li>
+  </li> 
+  <li>NFT Rights</li>
+    <ol type = "a"> 
+      <li>Rights Instruments</li>
+        <ol type="i">
+          <li>Bearer Instruments</li>
+          <li>Registered instrument</li>
+          <li>Negotiable instrument</li>
+          <li>https://www.investopedia.com/terms/b/bearer-instrument.asp </li>
         </ol>
-      </li>
-    </ol>
-    <ol>
-      <li> b.Technical Approaches </li>
-        <ol type "i">
-          <li>i.Bearer Tokens</li>
-          <li>ii.Constrained Tokens</li>
-            <ol type "1">
-              <li>1.Co-artifacts required for operationalization
-              <li>2.Directed biometrically
-              <li>3.Directed to “legally demonstrable” identity</li>
-              <li>4.Intersubjective Verification process could help here</li>
+      <li>Technical Approaches </li>
+        <ol type="i">
+          <li>Bearer Tokens</li>
+          <li>Constrained Tokens</li>
+            <ol type="1">
+              <li>Co-artifacts required for operationalization
+              <li>Directed biometrically
+              <li>Directed to “legally demonstrable” identity</li>
+              <li>Intersubjective Verification process could help here</li>
             </ol>
           </li>
         </ol>
-      </li>c.REQUIREMENT: must be able to specify rights & responsibilities
-        <ol type "i">
-          <li>i.Of the token as a token (property rights)</li>
-            <ol type "1">
-              <li>1.Ownership</li>
-              <li>2.Agency</li>
-              <li>3.Uniqueness</li>
-              <li>4.Divisibility</li>
+      <li>REQUIREMENT: must be able to specify rights & responsibilities
+        <ol type="i">
+          <li>Of the token as a token (property rights)</li>
+            <ol type="1">
+              <li>Ownership</li>
+              <li>Agency</li>
+              <li>Uniqueness</li>
+              <li>Divisibility</li>
             </ol>
-         <li>ii.Afforded an authorized presenter of the token (affordances)</li>
-          <ol type "1">
-              <li>1.Right to a specific seat in a particular venue for a particular show</li>
-              <li>2.Rights of access to information or location</li>
-              <li>3.Right to use a particular service (paywall)</li>
+         <li>Afforded an authorized presenter of the token (affordances)</li>
+          <ol type="1">
+              <li>Right to a specific seat in a particular venue for a particular show</li>
+              <li>Rights of access to information or location</li>
+              <li>Right to use a particular service (paywall)</li>
           </ol>
         </li>
       </ol>
-      <li>d.REQUIREMENT: Must be discoverable and understandable </li>
-        <ol type "i">
-          <li>i.Must be verifiable as recognized by appropriate parties</li> 
-          <li>ii.MAY be publicly committed, but privately described</li>
-          <li>iii.Warrantable completeness</li>
+      <li>REQUIREMENT: Must be discoverable and understandable </li>
+        <ol type="i">
+          <li>Must be verifiable as recognized by appropriate parties</li> 
+          <li>MAY be publicly committed, but privately described</li>
+          <li>Warrantable completeness</li>
         </ol>
-      <li>e.REQUIREMENT: Must be able to adjust and amend rights and responsibilities</li> 
-        <ol type "i">
-          <li>i.Changes to rights</li>
-          <li>ii.Constraints on changes to rights </li>
-          <li>iii.Attached or detached </li>
-        </ol>
-      </li>
-      <li>f.REQUIREMENT: must be able to operationalize rights</li>
-        <ol type "i"> 	
-          <li>i.Computational evaluation</li>
-          <li>ii.Through external actors/oracles</li>
+      <li>REQUIREMENT: Must be able to adjust and amend rights and responsibilities</li> 
+        <ol type="i">
+          <li>Changes to rights</li>
+          <li>Constraints on changes to rights </li>
+          <li>Attached or detached </li>
         </ol>
       </li>
-      <li>g.REQUIREMENTS: Security</li>
-        <ol type "i">
-          <li>i.Cryptographically provable ownership</li>
-          <li>ii.Cryptographically delegatable rights </li>
-          <li>iii.Non-repudiable transfers </li>
-          <li>iv.Atomic Transfers</li> 
-          <li>v.Auditability</li>
-          <li>vi.Key Management </li>
+      <li>REQUIREMENT: must be able to operationalize rights</li>
+        <ol type="i"> 	
+          <li>Computational evaluation</li>
+          <li>Through external actors/oracles</li>
         </ol>
-      <li>h.REQUIREMENTS: Privacy</li>
-        <ol type "i">
-          <li>i.Off-chain, verifiable details</li>
-          <li>ii.Minimally pseudonymous property rights</li>
-            <ol type "1">
-              <li>1.We should be able to work with the level to which bitcoin provides pseudonymity</li>
-              <li>2.Add that we need to enable support for anonymous execution, for some definition of anonymous</li>
+      </li>
+      <li>REQUIREMENTS: Security</li>
+        <ol type="i">
+          <li>Cryptographically provable ownership</li>
+          <li>Cryptographically delegatable rights </li>
+          <li>Non-repudiable transfers </li>
+          <li>Atomic Transfers</li> 
+          <li>Auditability</li>
+          <li>Key Management </li>
+        </ol>
+      <li>REQUIREMENTS: Privacy</li>
+        <ol type="i">
+          <li>Off-chain, verifiable details</li>
+          <li>Minimally pseudonymous property rights</li>
+            <ol type="1">
+              <li>We should be able to work with the level to which bitcoin provides pseudonymity</li>
+              <li>Add that we need to enable support for anonymous execution, for some definition of anonymous</li>
             </ol>   
-          <li>iii.Self-contained namespace</li>
-          <li>iv.Self-contained authentication</li> 
-            <ol type "i">
-              <li>i.Representations - how do we record & communication rights? 
-                <ol type "i">
-                  <li>i.Code
-                  <li>ii.Automatable 
-                  <li>iii.Formal
-                  <li>iv.Human readable
+          <li>Self-contained namespace</li>
+          <li>Self-contained authentication</li>
+        </ol>
+      <li>Representations - how do we record & communication rights? 
+                <ol type="i">
+                  <li>Code
+                  <li>Automatable 
+                  <li>Formal
+                  <li>Human readable
                 </ol>
               </li>
             </ol>
           </li>
-            
-4.Next Metadata Call Dec 17th, 2020
-5.Next Working Group Call Dec 10th, 2020 
+  <li>Next Metadata Call Dec 17th, 2020 </li>
+  <li>Next Working Group Call Dec 10th, 2020</li>
+</ol>   
+
+----------------------------
 
 
-
-
-
-
-
-
-
-## Working Group for Interchain NFT + Metadata Call 6
+## Working Group for Interchain NFT + Metadata Call #6
 
 **10th December 2020**
 
+SUMMARY:
+<ol type = "1"> 
+  <li>Review of use case RFC 002 </li>
+    <ol type = "a">
+      <li>https://github.com/interNFT/use-cases/blob/main/NFT-RFC-002-use-cases.md </li>
+    </ol>
+  <li>Review - Interface (RFC-003, RFC-004) </li>
+    <ol type = "a"> 
+      <li> https://github.com/persistenceOne/assetMantle
+      <li>https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-003_native_NFT_interface 
+      <li>https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-004_interNFT_standard
+    </ol>
+  <li>Review - Rights
+    <ol type = "a">
+      <li>https://github.com/interNFT/nft-rfc/pull/4 
+      <li>Open conversation about defining and including bearer instruments
+        <ol type = "i">
+          <li>Token rights and resource rights </li>
+        </ol>
+      </li>
+    </ol>
+  <li>Next RFCs are not written yet:
+    <ol type = "a">
+      <li>RFC006/Cap 19 (chain agnostic work) write up after next week’s call
+      <li>RFC007 Layer Model needs to be written up to explain in formal terms what we mean by metadata, how the layers in the system work together </li>
+    </ol>  
+  <li>We want to wrap up this phase of work by the end of the year, and start the new year with draft standards
+  <li>Github issues and PRs review 
+    <ol type= "a">
+      <li>Move more of our conversation to github so we can distribute the conversation better for those who cannot make these calls. Please check out the urls and comment there.
+      <li>We have a lot of artifacts now, so the challenge is to get the engagement in conversation and to get people to try and give feedback so we can iterate and move forward,</li>
+    </ol>
+  <li>Next Metadata Subgroup Call - 2020.12.17 
+  <li>Next Working Group Call- 2020.01.14 
+  <li>Call recording for review: https://youtu.be/dc_rCq3xawI
+  
 
-1. Presentation and Discussion on near final work for:
-2. Tech Standard for NFT Metadata
-3. Interface Standard for Implementing NFTs in the Cosmos SDK
-4. ZKP and private/anonymous NFTs:
 
 
 
