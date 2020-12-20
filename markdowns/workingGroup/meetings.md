@@ -470,10 +470,79 @@ SUMMARY:
       <li>We have a lot of artifacts now, so the challenge is to get the engagement in conversation and to get people to try and give feedback so we can iterate and move forward,</li>
     </ol>
   <li>Next Metadata Subgroup Call - 2020.12.17 
-  <li>Next Working Group Call- 2020.01.14 
+  <li>Next Working Group Call- 2020.01.14  
   <li>Call recording for review: https://youtu.be/dc_rCq3xawI
-  
+</ol>
 
+---------------------------
+
+## Metadata Subgroup Call D
+
+** 17th December 2020**
+
+SUMMARY
+<ol type="1">
+  <li> User story: https://github.com/interNFT/use-cases/pull/11 </li>
+  <li>Interchain UX Working Group
+    <ol type="a">
+      <li> https://docs.google.com/document/d/1UUgowUBRX2bJlWQcZrgv1KdSpAf1JsNjBvTF4vs41qI/edit </li>
+    </ol>
+  </li>
+  <li> CAIP 19
+    <ol type="a">
+      <li> https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-19.md </li> 
+    </ol>
+  </li>
+  <li>Current W3C Standards-track effort 
+    <ol type="a">
+      <li>https://w3c.github.io/did-core/ </li>
+    </ol>
+  </li>
+  <li>https://github.com/chainAgnostic/CASA </li>
+  <li> Pull Requests 
+    <ol type="a">
+      <li>https://github.com/interNFT/nft-rfc/pull/1 
+        <ol type="i">
+          <li>For Comment on NFT=RFC-003 </li>
+        </ol>
+      </li>
+      <li>https://github.com/interNFT/nft-rfc/pull/2 
+        <ol type="i">
+          <li>For Comments on NFT-RFC-004
+        </ol>
+      </li>
+      <li>https://github.com/interNFT/nft-rfc/pull/4
+        <ol type="i">
+          <li> NFT-RFC-005 NFT Rights </li>
+          <li>NFT-RFC-007 NFT Layers </li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+  <li>Documentation
+    <ol type="a">
+      <li>https://github.com/interNFT/documentation/pulls</li>
+      <li>https://github.com/interNFT/documentation/issues</li> 
+      <li>https://github.com/interNFT/nft-rfc/issues</li>
+      <li>https://github.com/interNFT/nft-rfc/pulls</li>  
+    </ol>
+  </li>
+  <li>Issues
+    <ol type="a">
+      <li>https://github.com/interNFT/documentation/issues/22</li>
+    </ol>
+  </li>
+  <li>View Recording
+    <ol type="a">
+      <li>https://youtu.be/W3uk2gwcgeM</li>
+    </ol>
+  </li>
+  <li>Slide deck
+    <ol type="a">
+      <li>https://docs.google.com/presentation/d/1D5hoQTBI_xjcTg9EQYJZdRVzjsldcngaxs4unocKsY4/edit#slide=id.ga908659111_0_296</li>
+    </ol>
+  </li>
+</ol>
 
 
 
