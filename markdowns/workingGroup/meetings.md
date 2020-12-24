@@ -319,8 +319,8 @@ Slides available at: https://docs.google.com/presentation/d/1mMPIVfjFBOh9qHL5aW4
 **3rd December 2020**
 
 SUMMARY
-<ol type "1"> 
-  <li>Github Issues and Prs 
+<ol type="1"> 
+  <li>Github Issues and Prs </li>
     <ol type = "a">
       <li>https://github.com/interNFT/use-cases/issues</li>
       <li>https://github.com/interNFT/use-cases/pulls</li>
@@ -328,7 +328,7 @@ SUMMARY
       <li>https://github.com/interNFT/nft-rfc/pulls</li>
     </ol>
   </li>
-  <li>Review of NFT Metadata  Framework
+  <li>Review of NFT Metadata  Framework </li>
     <ol type="a">
       <li>This structure let’s us talk about what is metadata and what is data in order to better approach the spec we are building</li>
       <li>We’ve created 2 workstreams</li> 
@@ -360,7 +360,7 @@ SUMMARY
             </ol>
           </li>
         </ol>
-      <li>REQUIREMENT: must be able to specify rights & responsibilities
+      <li>REQUIREMENT: must be able to specify rights & responsibilities</li>
         <ol type="i">
           <li>Of the token as a token (property rights)</li>
             <ol type="1">
@@ -416,12 +416,12 @@ SUMMARY
           <li>Self-contained namespace</li>
           <li>Self-contained authentication</li>
         </ol>
-      <li>Representations - how do we record & communication rights? 
+      <li>Representations - how do we record & communication rights? </li>
                 <ol type="i">
-                  <li>Code
-                  <li>Automatable 
-                  <li>Formal
-                  <li>Human readable
+                  <li>Code </li>
+                  <li>Automatable </li>
+                  <li>Formal </li>
+                  <li>Human readable </li>
                 </ol>
               </li>
             </ol>
@@ -445,34 +445,34 @@ SUMMARY:
     </ol>
   <li>Review - Interface (RFC-003, RFC-004) </li>
     <ol type = "a"> 
-      <li> https://github.com/persistenceOne/assetMantle
-      <li>https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-003_native_NFT_interface 
-      <li>https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-004_interNFT_standard
+      <li> https://github.com/persistenceOne/assetMantle </li>
+      <li>https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-003_native_NFT_interface  </li>
+      <li>https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-004_interNFT_standard </li>
     </ol>
-  <li>Review - Rights
+  <li>Review - Rights</li>
     <ol type = "a">
       <li>https://github.com/interNFT/nft-rfc/pull/4 
-      <li>Open conversation about defining and including bearer instruments
+      <li>Open conversation about defining and including bearer instruments </li>
         <ol type = "i">
           <li>Token rights and resource rights </li>
         </ol>
       </li>
     </ol>
-  <li>Next RFCs are not written yet:
+  <li>Next RFCs are not written yet: </li>
     <ol type = "a">
-      <li>RFC006/Cap 19 (chain agnostic work) write up after next week’s call
+      <li>RFC006/Cap 19 (chain agnostic work) write up after next week’s call </li>
       <li>RFC007 Layer Model needs to be written up to explain in formal terms what we mean by metadata, how the layers in the system work together </li>
     </ol>  
-  <li>We want to wrap up this phase of work by the end of the year, and start the new year with draft standards
-  <li>Github issues and PRs review 
+  <li>We want to wrap up this phase of work by the end of the year, and start the new year with draft standards </li>
+  <li>Github issues and PRs review </li>
     <ol type= "a">
-      <li>Move more of our conversation to github so we can distribute the conversation better for those who cannot make these calls. Please check out the urls and comment there.
+      <li>Move more of our conversation to github so we can distribute the conversation better for those who cannot make these calls. Please check out the urls and comment there. </li>
       <li>We have a lot of artifacts now, so the challenge is to get the engagement in conversation and to get people to try and give feedback so we can iterate and move forward,</li>
     </ol>
-  <li>Next Metadata Subgroup Call - 2020.12.17 
-  <li>Next Working Group Call- 2020.01.14 
-  <li>Call recording for review: https://youtu.be/dc_rCq3xawI
-  
+  <li>Next Metadata Subgroup Call - 2020.12.17 </li>
+  <li>Next Working Group Call- 2020.01.14 </li>
+  <li>Call recording for review: https://youtu.be/dc_rCq3xawI </li>
+</ol>
 
 
 
