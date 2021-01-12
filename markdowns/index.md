@@ -40,4 +40,4 @@ This is a non-exhaustive list of the projects involved in this effort. We have m
 * Aleph.im
 * Agoric
 
-If you want to participate too, please [get involved](/workingGroup/gettingInvolved.md).
+If you want to participate too, please [get involved](http://internft.org/workingGroup/gettingInvolved).
