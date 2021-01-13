@@ -146,9 +146,9 @@ Slides for Call 4: https://github.com/ericaconnell/documentation/raw/master/reso
 ### Agenda
 1. First look at the draft Interchain NFT Interface Standard (NFT-RFC003)
 2. Status of Github Issues & PRs
-3. Use-case presentations from participants: </br>
-  a. Get Protocol - Kasper Keunen</br>
-  b. FreeFlix - SistlaAbhishek and Dayakar Reddy 
+3. Use-case presentations from participants:
+    1. Get Protocol - Kasper Keunen
+    2. FreeFlix - SistlaAbhishek and Dayakar Reddy 
 
 ### Notes
 
@@ -156,20 +156,20 @@ Slides for Call 4: https://github.com/ericaconnell/documentation/raw/master/reso
 1. https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-003_native_NFT_interface
 
 #### Status of Github Issues & PRs
-1. Documentation <br>
-  a. https://github.com/interNFT/documentation/issues <br>
-  b. https://github.com/interNFT/documentation/pulls
-2. NFT-RFC <br>
-  a. https://github.com/interNFT/nft-rfc/issues <br>
-  b. https://github.com/interNFT/nft-rfc/pulls
-3. Use Cases <br>
-  a. https://github.com/interNFT/use-cases/issues <br>
-  b. https://github.com/interNFT/use-cases/issues/3 <br>
-      Difference between Re-fungible and Divisible <br>
-  d. https://github.com/interNFT/use-cases/pulls <br>
-  e. https://github.com/interNFT/use-cases/pull/5 <br>
-      Update NFT-REC-002-use-cases.md </br>
-  f. https://github.com/interNFT/use-cases/pull/4 <br>
+1. Documentation 
+    1. https://github.com/interNFT/documentation/issues 
+    2. https://github.com/interNFT/documentation/pulls
+2. NFT-RFC
+    1. https://github.com/interNFT/nft-rfc/issues 
+    2. https://github.com/interNFT/nft-rfc/pulls
+3. Use Cases
+    1. https://github.com/interNFT/use-cases/issues 
+    2. https://github.com/interNFT/use-cases/issues/3 
+      Difference between Re-fungible and Divisible
+    3. https://github.com/interNFT/use-cases/pulls
+    4. https://github.com/interNFT/use-cases/pull/5 
+      Update NFT-REC-002-use-cases.md 
+    5. https://github.com/interNFT/use-cases/pull/4
       Add refungible to terminology
 
 #### Use-case presentations from participants
@@ -282,7 +282,7 @@ Slides available at: https://docs.google.com/presentation/d/1mMPIVfjFBOh9qHL5aW4
     3. https://github.com/interNFT/nft-rfc/issues
     4. https://github.com/interNFT/nft-rfc/pulls
 2. Review of NFT Metadata  Framework
-      1. This structure let’s us talk about what is metadata and what is data in order to better approach the spec we are building</
+      1. This structure let’s us talk about what is metadata and what is data in order to better approach the spec we are building
       2. We’ve created 2 workstreams 
           1. Rights 
           2. Identifiers
