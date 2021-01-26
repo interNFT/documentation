@@ -353,112 +353,62 @@ Slides available at: https://docs.google.com/presentation/d/1mMPIVfjFBOh9qHL5aW4
 **10th December 2020**
 
 
-SUMMARY:
-<ol type = "1"> 
-  <li>Review of use case RFC 002 </li>
-    <ol type = "a">
-      <li>https://github.com/interNFT/use-cases/blob/main/NFT-RFC-002-use-cases.md </li>
-    </ol>
-  <li>Review - Interface (RFC-003, RFC-004) </li>
-    <ol type = "a"> 
-      <li> https://github.com/persistenceOne/assetMantle
-      <li>https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-003_native_NFT_interface 
-      <li>https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-004_interNFT_standard
-    </ol>
-  <li>Review - Rights
-    <ol type = "a">
-      <li>https://github.com/interNFT/nft-rfc/pull/4 
-      <li>Open conversation about defining and including bearer instruments
-        <ol type = "i">
-          <li>Token rights and resource rights </li>
-        </ol>
-      </li>
-    </ol>
-  <li>Next RFCs are not written yet:
-    <ol type = "a">
-      <li>RFC006/Cap 19 (chain agnostic work) write up after next week’s call
-      <li>RFC007 Layer Model needs to be written up to explain in formal terms what we mean by metadata, how the layers in the system work together </li>
-    </ol>  
-  <li>We want to wrap up this phase of work by the end of the year, and start the new year with draft standards
-  <li>Github issues and PRs review 
-    <ol type= "a">
-      <li>Move more of our conversation to github so we can distribute the conversation better for those who cannot make these calls. Please check out the urls and comment there.
-      <li>We have a lot of artifacts now, so the challenge is to get the engagement in conversation and to get people to try and give feedback so we can iterate and move forward,</li>
-    </ol>
-  <li>Next Metadata Subgroup Call - 2020.12.17 
-  <li>Next Working Group Call- 2020.01.14  
-  <li>Call recording for review: https://youtu.be/dc_rCq3xawI
-</ol>
+### SUMMARY
+1. Review of use case RFC 002
+    1. https://github.com/interNFT/use-cases/blob/main/NFT-RFC-002-use-cases.md 
+2. Review - Interface (RFC-003, RFC-004) 
+    1. https://github.com/persistenceOne/assetMantle
+    2. https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-003_native_NFT_interface 
+    3. https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-004_interNFT_standard
+3. Review - Rights
+    1. https://github.com/interNFT/nft-rfc/pull/4 
+    2. Open conversation about defining and including bearer instruments
+        1. Token rights and resource rights 
+4. Next RFCs are not written yet:
+    1. RFC006/Cap 19 (chain agnostic work) write up after next week’s call
+    2. RFC007 Layer Model needs to be written up to explain in formal terms what we mean by metadata, how the layers in the system work together 
+5. We want to wrap up this phase of work by the end of the year, and start the new year with draft standards
+6. Github issues and PRs review 
+    1. Move more of our conversation to github so we can distribute the conversation better for those who cannot make these calls. Please check out the urls and comment there.
+    2. We have a lot of artifacts now, so the challenge is to get the engagement in conversation and to get people to try and give feedback so we can iterate and move forward.
+7. Next Metadata Subgroup Call - 2020.12.17 
+8. Next Working Group Call- 2020.01.14  
+9. Call recording for review: https://youtu.be/dc_rCq3xawI
 
 ---------------------------
 
 ## Metadata Subgroup Call D
 
-** 17th December 2020**
+**17th December 2020**
 
-SUMMARY
-<ol type="1">
-  <li> User story: https://github.com/interNFT/use-cases/pull/11 </li>
-  <li>Interchain UX Working Group
-    <ol type="a">
-      <li> https://docs.google.com/document/d/1UUgowUBRX2bJlWQcZrgv1KdSpAf1JsNjBvTF4vs41qI/edit </li>
-    </ol>
-  </li>
-  <li> CAIP 19
-    <ol type="a">
-      <li> https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-19.md </li> 
-    </ol>
-  </li>
-  <li>Current W3C Standards-track effort 
-    <ol type="a">
-      <li>https://w3c.github.io/did-core/ </li>
-    </ol>
-  </li>
-  <li>https://github.com/chainAgnostic/CASA </li>
-  <li> Pull Requests 
-    <ol type="a">
-      <li>https://github.com/interNFT/nft-rfc/pull/1 
-        <ol type="i">
-          <li>For Comment on NFT=RFC-003 </li>
-        </ol>
-      </li>
-      <li>https://github.com/interNFT/nft-rfc/pull/2 
-        <ol type="i">
-          <li>For Comments on NFT-RFC-004
-        </ol>
-      </li>
-      <li>https://github.com/interNFT/nft-rfc/pull/4
-        <ol type="i">
-          <li> NFT-RFC-005 NFT Rights </li>
-          <li>NFT-RFC-007 NFT Layers </li>
-        </ol>
-      </li>
-    </ol>
-  </li>
-  <li>Documentation
-    <ol type="a">
-      <li>https://github.com/interNFT/documentation/pulls</li>
-      <li>https://github.com/interNFT/documentation/issues</li> 
-      <li>https://github.com/interNFT/nft-rfc/issues</li>
-      <li>https://github.com/interNFT/nft-rfc/pulls</li>  
-    </ol>
-  </li>
-  <li>Issues
-    <ol type="a">
-      <li>https://github.com/interNFT/documentation/issues/22</li>
-    </ol>
-  </li>
-  <li>View Recording
-    <ol type="a">
-      <li>https://youtu.be/W3uk2gwcgeM</li>
-    </ol>
-  </li>
-  <li>Slide deck
-    <ol type="a">
-      <li>https://docs.google.com/presentation/d/1D5hoQTBI_xjcTg9EQYJZdRVzjsldcngaxs4unocKsY4/edit#slide=id.ga908659111_0_296</li>
-    </ol>
-  </li>
-</ol>
+### SUMMARY
+1. User story: https://github.com/interNFT/use-cases/pull/11
+2. Interchain UX Working Group
+    1. https://docs.google.com/document/d/1UUgowUBRX2bJlWQcZrgv1KdSpAf1JsNjBvTF4vs41qI/edit
+3.  CAIP 19
+    1. https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-19.md 
+4. Current W3C Standards-track effort 
+    1. https://w3c.github.io/did-core/ 
+5. https://github.com/chainAgnostic/CASA 
+6. Pull Requests 
+      1. https://github.com/interNFT/nft-rfc/pull/1 
+          1. For Comment on NFT=RFC-003 
+      2. https://github.com/interNFT/nft-rfc/pull/2 
+          1. For Comments on NFT-RFC-004
+      3. https://github.com/interNFT/nft-rfc/pull/4
+          1. NFT-RFC-005 NFT Rights 
+          2. NFT-RFC-007 NFT Layers 
+7. Documentation
+      1. https://github.com/interNFT/documentation/pulls
+      2. https://github.com/interNFT/documentation/issues
+      3. https://github.com/interNFT/nft-rfc/issues
+      4. https://github.com/interNFT/nft-rfc/pulls 
+8. Issues
+      1. https://github.com/interNFT/documentation/issues/22
+9. View Recording
+      1. https://youtu.be/W3uk2gwcgeM
+10. Slide deck
+     1. https://docs.google.com/presentation/d/1D5hoQTBI_xjcTg9EQYJZdRVzjsldcngaxs4unocKsY4/edit#slide=id.ga908659111_0_296
 
 
 
