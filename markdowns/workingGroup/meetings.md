@@ -414,26 +414,49 @@ Slides available at: https://docs.google.com/presentation/d/1mMPIVfjFBOh9qHL5aW4
 
 
 
-=======
-### SUMMARY
-1. Review of use case RFC 002
-    1. https://github.com/interNFT/use-cases/blob/main/NFT-RFC-002-use-cases.md 
-2. Review - Interface (RFC-003, RFC-004) 
-      1. https://github.com/persistenceOne/assetMantle
-      2. https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-003_native_NFT_interface 
-      3. https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-004_interNFT_standard 
-3. Review - Rights
-      1. https://github.com/interNFT/nft-rfc/pull/4 
-      2. Open conversation about defining and including bearer instruments
-          1. Token rights and resource rights 
-4. Next RFCs are not written yet:
-      1. RFC006/Cap 19 (chain agnostic work) write up after next week’s call
-      2. RFC007 Layer Model needs to be written up to explain in formal terms what we mean by metadata, how the layers in the system work together 
-5. We want to wrap up this phase of work by the end of the year, and start the new year with draft standards 
-      1. Github issues and PRs review 
-          1. Move more of our conversation to github so we can distribute the conversation better for those who cannot make these calls. Please check out the urls and comment there. 
-          2. We have a lot of artifacts now, so the challenge is to get the engagement in conversation and to get people to try and give feedback so we can iterate and move forward,
-6. Next Metadata Subgroup Call - 2020.12.17
-7. Next Working Group Call- 2020.01.14 
-8. Call recording for review: https://youtu.be/dc_rCq3xawI
 
+
+=======
+## interNFT Working Group + Metadata Call #7 
+
+**21st January 2021**
+
+### SUMMARY
+
+1. Discussion on the proposal for IIDs & IID Documents (NFT-RFC-06)
+    1. Last call: https://youtu.be/mm9BPABDejE
+    2. New since last call
+        1. Associated Resources is property new for IID Documents
+        2. IID Resource Types
+    3. Current status of NFT-RFCs
+        1. NFT-RFC-001 Specification Standard for Interchain NFTs and Metadata
+        2. NFT-RFC-002 Use Cases and Requirements Working Document
+        3. NFT-RFC-003 NFT Interface
+        4. NFT-RFC-004 interNFT Standard
+        5. NFT-RFC-005 NFT Rights
+        6. NFT-RFC-006 NFT Identifiers
+        7. NFT-RFC-007 NFT Layers
+        8. NFT-RFC-008 NFT Assertions
+2. GitHub Issues and PRs
+    1. Documentation
+        1. https://github.com/interNFT/documentation/pulls
+        2. https://github.com/interNFT/documentation/issues
+        3. https://github.com/interNFT/nft-rfc/issues
+        4. https://github.com/interNFT/nft-rfc/pulls  
+    2. Issues
+        1. https://github.com/interNFT/nft-rfc/issues/8 
+           1. Question about Multiple Classifications
+    3. Pull Requests
+        1. https://github.com/interNFT/nft-rfc/pull/1
+           1. For Comment on NFT=RFC-003
+        2. https://github.com/interNFT/nft-rfc/pull/2
+           1. For Comments on NFT-RFC-004
+        3. https://github.com/interNFT/nft-rfc/pull/9
+            1. Editorial Review edits (incomplent)
+        4. https://github.com/interNFT/nft-rfc/pull/10
+            1. NFT-RFC-008 Assertions
+        5. https://github.com/interNFT/nft-rfc/pull/11
+            1. NFT-RFC-006
+3. Call recording: https://youtu.be/2vqjVtk5nX4
+4. Next Metadata call 2021.01.28
+5. Next Working Group Call 2021.02.04
