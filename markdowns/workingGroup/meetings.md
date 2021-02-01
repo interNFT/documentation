@@ -460,3 +460,43 @@ Slides available at: https://docs.google.com/presentation/d/1mMPIVfjFBOh9qHL5aW4
 3. Call recording: https://youtu.be/2vqjVtk5nX4
 4. Next Metadata call 2021.01.28
 5. Next Working Group Call 2021.02.04
+========
+
+========
+## Interchain NFT Metadata Subgroup Call E
+
+**28th January 2021**
+
+### SUMMARY
+
+1. Call recording can be found here: https://youtu.be/MlAOC_QIuGI
+1. Introduction 
+   * Why Information Grows from Atoms to Economies
+1. Interchain NFT + Metadata Architecture Layer 
+1. How to link resource metadata to NFTs
+1. Why IID and not just DID?
+1. Linked Resources for NFTs
+1. GitHub Issues and PRs
+    1. Documentation
+        1. https://github.com/interNFT/documentation/pulls
+        1. https://github.com/interNFT/documentation/issues
+    1. NFT-RFCs
+        1. https://github.com/interNFT/nft-rfc/issues
+        1. https://github.com/interNFT/nft-rfc/pulls
+    1. Issues
+        1. https://github.com/interNFT/nft-rfc/issues/8
+            * Question about Multiple Classifications
+    1. Pull Requests 
+        1.  https://github.com/interNFT/nft-rfc/pull/1
+            * For Comment on NFT=RFC-003
+        1. https://github.com/interNFT/nft-rfc/pull/2
+            * For Comments on NFT-RFC-004
+        1. https://github.com/interNFT/nft-rfc/pull/9
+            * Editorial Review edits (incomplent)
+        1. https://github.com/interNFT/nft-rfc/pull/10
+            * NFT-RFC-008 Assertions
+        1. https://github.com/interNFT/nft-rfc/pull/11
+            * NFT-RFC-006 NFT Identifiers
+1. Next steps: review what’s been submitted and consolidate 
+1. Next Working Group call: 2021.02.04
+1. Next Metadata call: 2021.02.11
