@@ -498,3 +498,45 @@ Part II:
 1. Next steps: review what’s been submitted and consolidate 
 1. Next Working Group call: 2021.02.04
 1. Next Metadata call: 2021.02.11
+
+==========
+## Interchain NFT Working Group + Metadata Call #8
+
+**4th February 2021**
+
+### SUMMARY
+
+1. Call recording available here: https://youtu.be/7VrbblZcKtY
+1. DID Specification Review
+    1. https://www.w3.org/TR/did-core/
+1. Proposed Form of an Interchain NFT and Metadata Standard
+    1. Document Properties 
+    1. Services 
+    1. Verification Relationships 
+    1. Verification Methods 
+    1. Linked Resources 
+    1. Accorded Rights 
+1. Building authorisation capabilities into NFTs
+    1. https://w3c-ccg.github.io/zcap-ld/
+    1. https://github.com/InterWorkAlliance/TokenTaxonomyFramework/blob/master/token-taxonomy.md
+    1. Capabilities/Executable Rights for NFTs
+1. Github issues and PRS 
+    1. Documentation
+        1. https://github.com/interNFT/documentation/pulls
+        1. https://github.com/interNFT/documentation/issues 
+        1. https://github.com/interNFT/nft-rfc/issues
+        1. https://github.com/interNFT/nft-rfc/pulls  
+    1. Issues
+        1. https://github.com/interNFT/nft-rfc/issues/8 
+        * Question about Multiple Classifications
+    1. Pull Requests 
+        1. https://github.com/interNFT/nft-rfc/pull/1
+        * For Comment on NFT=RFC-003
+        1. https://github.com/interNFT/nft-rfc/pull/2
+        * For Comments on NFT-RFC-004
+        1. https://github.com/interNFT/nft-rfc/pull/9
+        * Editorial Review edits (incomplent)
+        1. https://github.com/interNFT/nft-rfc/pull/12
+        * Update to nft-rfc-008.md
+1. Next Working Group Call: 2021.02.18
+1. Next Metadata Subgroup Call: 2021.02.11
