@@ -2,24 +2,24 @@
 
 Note that the dates are estimates and may vary. Double check with us on Discord for the next WG Meeting.
 
-## Working Group for Interchain NFT + Metadata Call 1
+## InterNFT Working Group Call #1
   
 **4th September 2020**
 
-Agenda:
-1. Welcome, Introduction of ICF + Persistence + IXO collaboration - Deepanshu - 5 mins
-2. Interchain vision for NFTs & Metadata - Billy - 5 mins  - 5 mins
-3. Scope and Objectives - Shaun - 5 mins
-4. The NFT landscape - summary based on scoping exercise - Adrien - 5 mins
-5. Lightning presentations of 3 use-cases - Adrien & 3 participants - 20 mins
-6. Documenting canonical Use-cases (Approach, format, timeline, etc) - Adrien - 15 mins 
-7. Working Group membership, agenda for future calls, AoB - Karthik - 10 mins
+1. Agenda:
+   1. Welcome, Introduction of ICF + Persistence + IXO collaboration - Deepanshu - 5 mins
+   1. Interchain vision for NFTs & Metadata - Billy - 5 mins  - 5 mins
+   1. Scope and Objectives - Shaun - 5 mins
+   1. The NFT landscape - summary based on scoping exercise - Adrien - 5 mins
+   1. Lightning presentations of 3 use-cases - Adrien & 3 participants - 20 mins
+   1. Documenting canonical Use-cases (Approach, format, timeline, etc) - Adrien - 15 mins 
+   1. Working Group membership, agenda for future calls, AoB - Karthik - 10 mins
 
-Video Recording of Call 1: https://www.youtube.com/watch?v=c5v1xh1mOa4
+1. Video Recording of Call 1: https://www.youtube.com/watch?v=c5v1xh1mOa4
 
-Slides of Call 1: https://github.com/interNFT/documentation/blob/master/resources/ICF_NFT_WG_-_Call_1_-_04.09.2020.pdf
+1. Slides of Call 1: https://github.com/interNFT/documentation/blob/master/resources/ICF_NFT_WG_-_Call_1_-_04.09.2020.pdf
 
-Minutes of Call 1:
+1. Minutes of Call 1:
 
 ```
 Deepanshu Tripathi: Presentation of Persistence and how the project came about to work with ixo network and ICF. 
@@ -54,25 +54,26 @@ ADR = architecture decision record
 Karthik Bupathi: 
 InterNFT.org —> domain where we will publicly share our efforts; that includes a forum for ongoing discussions and a single source of truth for up-to-date information about latest decisions, events, recordings, documents, updates, and so on.
 ```
+---
 
-## Working Group for Interchain NFT + Metadata Call 2
+## InterNFT Working Group Call #2
 
 **25th September 2020**
 
-Agenda:
-1. Welcome, short project intro and last call summary - Billy - 5min
-2. Scope and Objectives - where we are now - Shaun - 5min
-3. The InterNFT.org website is up and running - Deepanshu - 5min
-4. Outcomes of Outreach Effort - Adrien - 5min
-5. Ligthning presentations of 2 use-cases - 10 min - by Antoine of IOV Starname and Charly of Centrifuge
-6. Use Case collection and documentation - Adrien - 5min
-7. Community Feedback - 10 min - Karthik and call participants
+1. Agenda:
+   1. Welcome, short project intro and last call summary - Billy - 5min
+   1. Scope and Objectives - where we are now - Shaun - 5min
+   1. The InterNFT.org website is up and running - Deepanshu - 5min
+   1. Outcomes of Outreach Effort - Adrien - 5min
+   1. Ligthning presentations of 2 use-cases - 10 min - by Antoine of IOV Starname and Charly of Centrifuge
+   1. Use Case collection and documentation - Adrien - 5min
+   1. Community Feedback - 10 min - Karthik and call participants
 
-Slides of Call 2: https://github.com/interNFT/documentation/tree/master/resources/ICF_NFT_WG_-_Call_2_-_25.09.2020.pdf
+1. Slides of Call 2: https://github.com/interNFT/documentation/tree/master/resources/ICF_NFT_WG_-_Call_2_-_25.09.2020.pdf
 
-Video Recording of Call 2: https://youtu.be/2NwOTwGkgpg
+1. Video Recording of Call 2: https://youtu.be/2NwOTwGkgpg
 
-Minutes of Call 2:
+1. Minutes of Call 2:
 
 ```
 1. Welcome, v short project intro and briefly mention achievements covered in last call - Billy - 5min
@@ -96,29 +97,29 @@ Deepanshu -> discussion could start on an forum for non-technical audience to ea
 
 FYI: Calls are moved to Thursdays from now on
 ```
-
-## Working Group for Interchain NFT + Metadata Call 3
+---
+## InterNFT Working Group Call #3
 
 **22nd October 2020**
 
-Agenda Part I:
-1. Welcome to new members of the group - Billy
-2. Map - where we are now - Shaun
-3. RFC-1 The InterNFT RFC Process - Deepanshu
-4. RFC-2  Use Cases & Requirements - Shaun
-5.a Drafting process for NFT Metadata Standard Joe
-5.b Drafting process for NFT Interface Standard - Deepanshu 
-6. Call for contributions - Billy
+1. Agenda Part I:
+   1. Welcome to new members of the group - Billy
+   1. Map - where we are now - Shaun
+   1. RFC-1 The InterNFT RFC Process - Deepanshu
+   1. RFC-2  Use Cases & Requirements - Shaun
+   1. a Drafting process for NFT Metadata Standard Joe
+   1. b Drafting process for NFT Interface Standard - Deepanshu 
+   1. Call for contributions - Billy
 
-Agenda Part II:
-1. Dean Tribble of Agoric on “NFTs & Object Capabilities”
-2. James Waugh of Secret Network on “NFTs and Privacy”
+1. Agenda Part II:
+   1. Dean Tribble of Agoric on “NFTs & Object Capabilities”
+   1. James Waugh of Secret Network on “NFTs and Privacy”
 
-Slides of Call 3: https://github.com/interNFT/documentation/tree/master/resources/ICF_NFT_WG_-_Call_3_-_22.10.2020.pdf
+1. Slides of Call 3: https://github.com/interNFT/documentation/tree/master/resources/ICF_NFT_WG_-_Call_3_-_22.10.2020.pdf
 
-Video Recording of Call 3: coming soon...
+1. Video Recording of Call 3: coming soon...
 
-Minutes of Call 3:
+1. Minutes of Call 3:
 
 ```
 Part I:
@@ -135,280 +136,277 @@ Part II:
 2. James Waugh of Secret Network on “NFTs and Privacy” - Secret Network presentation, Private NFTs with SNIP-721 https://github.com/SecretFoundation/SNIPs/blob/master/SNIP-721.md, Encryption mechanism overview, Special features
 ```
 
-## Working Group for Interchain NFT + Metadata Call 4
+---
+## InterNFT Working Group Call #4
 
 **5th November 2020**
 
-interNFT + Metadata Meeting 2020.11.05 
 
-Slides for Call 4: https://github.com/ericaconnell/documentation/raw/master/resources/ICF_NFT_WG_-_Call_4_-_2020.11.05.pdf
+1. Slides for Call 4: https://github.com/ericaconnell/documentation/raw/master/resources/ICF_NFT_WG_-_Call_4_-_2020.11.05.pdf
 
-### Agenda
-1. First look at the draft Interchain NFT Interface Standard (NFT-RFC003)
-2. Status of Github Issues & PRs
-3. Use-case presentations from participants:
-    1. Get Protocol - Kasper Keunen
-    2. FreeFlix - SistlaAbhishek and Dayakar Reddy 
+1. ### Agenda
+   1. First look at the draft Interchain NFT Interface Standard (NFT-RFC003)
+   1. Status of Github Issues & PRs
+   1. Use-case presentations from participants:
+      1. Get Protocol - Kasper Keunen
+      1. FreeFlix - SistlaAbhishek and Dayakar Reddy 
 
-### Notes
+1. ### SUMMARY
 
-#### First look at the draft Interchain NFT Interface Standard (NFT-RFC003)
-1. https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-003_native_NFT_interface
+    1. #### First look at the draft Interchain NFT Interface Standard (NFT-RFC003)
+       * https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-003_native_NFT_interface
 
-#### Status of Github Issues & PRs
-1. Documentation 
-    1. https://github.com/interNFT/documentation/issues 
-    2. https://github.com/interNFT/documentation/pulls
-2. NFT-RFC
-    1. https://github.com/interNFT/nft-rfc/issues 
-    2. https://github.com/interNFT/nft-rfc/pulls
-3. Use Cases
-    1. https://github.com/interNFT/use-cases/issues 
-    2. https://github.com/interNFT/use-cases/issues/3 
-      Difference between Re-fungible and Divisible
-    3. https://github.com/interNFT/use-cases/pulls
-    4. https://github.com/interNFT/use-cases/pull/5 
-      Update NFT-REC-002-use-cases.md 
-    5. https://github.com/interNFT/use-cases/pull/4
-      Add refungible to terminology
+1. #### Status of Github Issues & PRs
+   1. Documentation 
+      1. https://github.com/interNFT/documentation/issues 
+      1. https://github.com/interNFT/documentation/pulls
+   1. NFT-RFC
+      1. https://github.com/interNFT/nft-rfc/issues 
+      1. https://github.com/interNFT/nft-rfc/pulls
+   1. Use Cases
+      1. https://github.com/interNFT/use-cases/issues 
+      1. https://github.com/interNFT/use-cases/issues/3 
+      * Difference between Re-fungible and Divisible
+      1. https://github.com/interNFT/use-cases/pulls
+      1. https://github.com/interNFT/use-cases/pull/5 
+      * Update NFT-REC-002-use-cases.md 
+      1. https://github.com/interNFT/use-cases/pull/4
+      * Add refungible to terminology
 
-#### Use-case presentations from participants
+1. #### Use-case presentations from participants
 
-#### Get Protocol
-* Kasper Keunen
-* https://docs.google.com/presentation/d/1Exobz-__fQY4z4oduKCjKgdIkl1qYhjoTxBnU-GZaEs/edit?usp=sharing   
+    1. #### Get Protocol
+       1. Kasper Keunen
+       * https://docs.google.com/presentation/d/1Exobz-__fQY4z4oduKCjKgdIkl1qYhjoTxBnU-GZaEs/edit?usp=sharing   
 
-#### FreeFlix
-* SistlaAbhishek and Dayakar Reddy 
-* https://www.notion.so/Event-InterNFT-meetup-09ac70df015e4d39a7f8d4586b692fff 	
+   1. #### FreeFlix
+      1. SistlaAbhishek and Dayakar Reddy 
+      * https://www.notion.so/Event-InterNFT-meetup-09ac70df015e4d39a7f8d4586b692fff 	
 
-## Metadata Subgroup Call B
+---
+## InterNFT Metadata Subgroup Call B
 
 **12th Nov 2020**
 
-Slides available at: https://docs.google.com/presentation/d/1mMPIVfjFBOh9qHL5aW4Xn20WnP3TFaGiOAdCOwvhyIk/edit#slide=id.p
-
 ### Summary 
-
+1. Slides available at: https://docs.google.com/presentation/d/1mMPIVfjFBOh9qHL5aW4Xn20WnP3TFaGiOAdCOwvhyIk/edit#slide=id.p
 1. Review layer model
-2. Issues & PRs
+1. Issues & PRs
     1. Use Cases	
         1.	https://github.com/interNFT/use-cases/issues/3 
-              Difference between Re-fungible and Divisible
-        2.	https://github.com/interNFT/use-cases/pull/5
-              Update NFT-REC-002-use-cases.md
-        3.	https://github.com/interNFT/use-cases/pull/4
-              Add refungible to terminology
-3.	New Theater Ticket User Story
+        * Difference between Re-fungible and Divisible
+        1.	https://github.com/interNFT/use-cases/pull/5
+        * Update NFT-REC-002-use-cases.md
+        1.	https://github.com/interNFT/use-cases/pull/4
+        * Add refungible to terminology
+1.	New Theater Ticket User Story
 
     1.	https://docs.google.com/document/d/1WJslQDXRWubmjqK7ot8v3v7rjwhSr3Anm3cKfRco0b8/edit#heading=h.busdkf414s5c
-    2.	Review and discussion
+    1.	Review and discussion
         1. Open Design Question (for app users, not the spec): Authentication & verification
             *	Where do they take place, by whom, using which system
             *	How does this resonate with object capabilities
-        2.	Invite to continue conversation on metadata channel on discord 
+        1.	Invite to continue conversation on metadata channel on discord 
     
-4. Next subgroup call - Dec 10, 2020
+1. Next subgroup call - Dec 10, 2020
     1.	Room for 4-6 other user stories
-    2.	Propose something! 
+    1.	Propose something! 
         1. Telegram: InterNFT Working Group
-        2. Discord: https://discord.com/invite/W8trcGV
-        3. Submit a pull request: http://internft.org/
-    3.	Encourage others to github for conversation development
+        1. Discord: https://discord.com/invite/W8trcGV
+        1. Submit a pull request: http://internft.org/
+    1.	Encourage others to github for conversation development
 
 ---
-## Working Group for Interchain NFT + Metadata Call 5
+## InterNFT Working Group Call #5
 
 **19th November 2020**
 
-### AGENDA
-1. Tech Standard for NFT Metadata: progress update
-2. Interface Standard for Implementing NFTs in the Cosmos SDK: progress update
-3. ZKP and private/anonymous NFTs
+1. ### AGENDA
+   1. Tech Standard for NFT Metadata: progress update
+   1. Interface Standard for Implementing NFTs in the Cosmos SDK: progress update
+   1. ZKP and private/anonymous NFTs
 
-### SUMMARY
-**Part 1: Core Team Update**
+1. ### SUMMARY
+   1. **Part 1: Core Team Update**
+      1. Welcome & Summary of Progress
+         1. Review of NFT flow from use cases to prototype use-case applications
+      1. Interchain Resource Identifiers 
+         1. Metadata Standard will address
+            1. NFT as container of embodied rights 
+            * Object capabilities - theater tix user story
+            1. NFT as container of a resource identifier
+            * NFT resource identifiers - token use cases 
+            1. NFTs as a “native on-chan” resource
+            * **title over physical property
+      1. Recent Innovations
+         1. URL/URI/IRI
+         1. DID
+         1. CID
+         1. IID
+      1. Metadata Framework review  
+      1. Status of Github & PR issues
+         1. [https://github.com/interNFT/documentation/issues](https://github.com/interNFT/documentation/issues) 
+         1. ["https://github.com/interNFT/documentation/pulls"](https://github.com/interNFT/documentation/pulls)
+         1. ["https://github.com/interNFT/nft-rfc/issues"](https://github.com/interNFT/nft-rfc/issues)
+         1. ["https://github.com/interNFT/nft-rfc/pulls"](https://github.com/interNFT/nft-rfc/pulls)
+         1. ["https://github.com/interNFT/use-cases/issues"](https://github.com/interNFT/use-cases/issues)
+         1. ["https://github.com/interNFT/use-cases/pulls"](https://github.com/interNFT/use-cases/pulls)
 
-1. Welcome & Summary of Progress
-    1. Review of NFT flow from use cases to prototype use-case applications
-2. Interchain Resource Identifiers 
-    1. Metadata Standard will address
-          1. NFT as container of embodied rights 
-              * Object capabilities - theater tix user story
-          2. NFT as container of a resource identifier
-              * NFT resource identifiers - token use cases 
-          3. NFTs as a “native on-chan” resource
-              * **title over physical property
-    2. Recent Innovations
-        1. URL/URI/IRI
-        2. DID
-        3. CID
-        4. IID
-3. Metadata Framework review  
-4. Status of Github & PR issues
-      1. [https://github.com/interNFT/documentation/issues](https://github.com/interNFT/documentation/issues) 
-      2. ["https://github.com/interNFT/documentation/pulls"](https://github.com/interNFT/documentation/pulls)
-      3. ["https://github.com/interNFT/nft-rfc/issues"](https://github.com/interNFT/nft-rfc/issues)
-      4. ["https://github.com/interNFT/nft-rfc/pulls"](https://github.com/interNFT/nft-rfc/pulls)
-      5. ["https://github.com/interNFT/use-cases/issues"](https://github.com/interNFT/use-cases/issues)
-      6. ["https://github.com/interNFT/use-cases/pulls"](https://github.com/interNFT/use-cases/pulls)
+   1. **Part 2: User Stories**
+      1. Brian Xin with Starry Media
+      1. NFT Asset Management Platform for Ticketing Industry=
+      1. E-ticket use case
 
-**Part 2: User Stories**
-
-1. Brian Xin with Starry Media
-    1. NFT Asset Management Platform for Ticketing Industry=
-    2. E-ticket use case
-
-**Part 3: Interchain Resource Identifiers**
-
-1. New standard for identifying unique resources which are non-fungible tokens, which can be operationalized on any blockchain
-2. These tokens may contain references to external resources (such as real-world property or individuals), and they have their own namespace to do so.
+   1. **Part 3: Interchain Resource Identifiers**
+      1. New standard for identifying unique resources which are non-fungible tokens, which can be operationalized on any blockchain
+      1. These tokens may contain references to external resources (such as real-world property or individuals), and they have their own namespace to do so.
 
 
-### Next WG call:  Dec 3, 2020 
-### Next Metadata call: Dec 10, 2020
+1. ### Next WG call:  Dec 3, 2020 
+1. ### Next Metadata call: Dec 10, 2020
 
 ---
 
 
-## Metadata Subgroup Call C 
+## InterNFT Metadata Subgroup Call C 
 
 **3rd December 2020**
 
 ### SUMMARY
-1. Github Issues and Prs 
-    1. https://github.com/interNFT/use-cases/issues
-    2. https://github.com/interNFT/use-cases/pulls
-    3. https://github.com/interNFT/nft-rfc/issues
-    4. https://github.com/interNFT/nft-rfc/pulls
-2. Review of NFT Metadata  Framework
+   1. Github Issues and Prs 
+      1. https://github.com/interNFT/use-cases/issues
+      1. https://github.com/interNFT/use-cases/pulls
+      1. https://github.com/interNFT/nft-rfc/issues
+      1. https://github.com/interNFT/nft-rfc/pulls
+   1. Review of NFT Metadata  Framework
       1. This structure let’s us talk about what is metadata and what is data in order to better approach the spec we are building
-      2. We’ve created 2 workstreams 
+      1. We’ve created 2 workstreams 
           1. Rights 
-          2. Identifiers
-3. NFT Rights
+          1. Identifiers
+   1. NFT Rights
       1. Rights Instruments
-          1. Bearer Instruments
-          2. Registered instrument
-          3. Negotiable instrument
-          4. https://www.investopedia.com/terms/b/bearer-instrument.asp 
-      2. Technical Approaches 
-          1. Bearer Tokens
-          2. Constrained Tokens
+         1. Bearer Instruments
+         1. Registered instrument
+         1. Negotiable instrument
+         1. https://www.investopedia.com/terms/b/bearer-instrument.asp 
+      1. Technical Approaches 
+         1. Bearer Tokens
+         1. Constrained Tokens
               * Co-artifacts required for operationalization
               * Directed biometrically
               * Directed to “legally demonstrable” identity
               * Intersubjective Verification process could help here
-      3. REQUIREMENT: must be able to specify rights & responsibilities
+      1. REQUIREMENT: must be able to specify rights & responsibilities
           1. Of the token as a token (property rights)
               * Ownership
               * Agency
               * Uniqueness
               * Divisibility
-         2. Afforded an authorized presenter of the token (affordances)
+          1. Afforded an authorized presenter of the token (affordances)
               * Right to a specific seat in a particular venue for a particular show
               * Rights of access to information or location
               * Right to use a particular service (paywall)
-      4. REQUIREMENT: Must be discoverable and understandable 
+      1. REQUIREMENT: Must be discoverable and understandable 
          1. Must be verifiable as recognized by appropriate parties
-         2. MAY be publicly committed, but privately described
-         3. Warrantable completeness
-      5. REQUIREMENT: Must be able to adjust and amend rights and responsibilities
-          1. Changes to rights
-          2. Constraints on changes to rights 
-          3. Attached or detached
-      6. REQUIREMENT: must be able to operationalize rights
-          1. Computational evaluation
-          2. Through external actors/oracles
-      7. REQUIREMENTS: Security
-          1. Cryptographically provable ownershipi
-          2. Cryptographically delegatable rights 
-          3. Non-repudiable transfers 
-          4. Atomic Transfers 
-          5. Auditability
-          6. Key Management
-      8. REQUIREMENTS: Privacy
+         1. MAY be publicly committed, but privately described
+         1. Warrantable completeness
+      1. REQUIREMENT: Must be able to adjust and amend rights and responsibilities
+         1. Changes to rights
+         1. Constraints on changes to rights 
+         1. Attached or detached
+      1. REQUIREMENT: must be able to operationalize rights
+         1. Computational evaluation
+         1. Through external actors/oracles
+      1. REQUIREMENTS: Security
+         1. Cryptographically provable ownershipi
+         1. Cryptographically delegatable rights 
+         1. Non-repudiable transfers 
+         1. Atomic Transfers 
+         1. Auditability
+         1. Key Management
+      1. REQUIREMENTS: Privacy
         
           1. Off-chain, verifiable details
-          2. Minimally pseudonymous property rights
+          1. Minimally pseudonymous property rights
               * We should be able to work with the level to which bitcoin provides pseudonymity
               * Add that we need to enable support for anonymous execution, for some definition of anonymous
-          3. Self-contained namespace
-          4. Self-contained authentication
+          1. Self-contained namespace
+          1. Self-contained authentication
 
-      9. Representations - how do we record & communication rights? 
+      1. Representations - how do we record & communication rights? 
           1. Code
-          2. Automatable 
-          3. Formal 
-          4. Human readable
+          1. Automatable 
+          1. Formal 
+          1. Human readable
          
-4. Next Metadata Call Dec 17th, 2020 
-5. Next Working Group Call Dec 10th, 2020
+1. Next Metadata Call Dec 17th, 2020 
+1. Next Working Group Call Dec 10th, 2020
 
-----------------------------
+---
 
 
-## Working Group for Interchain NFT + Metadata Call #6
+## InterNFT Working Group Call #6
 
 **10th December 2020**
 
 
 ### SUMMARY
-1. Review of use case RFC 002
-    1. https://github.com/interNFT/use-cases/blob/main/NFT-RFC-002-use-cases.md 
-2. Review - Interface (RFC-003, RFC-004) 
-    1. https://github.com/persistenceOne/assetMantle
-    2. https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-003_native_NFT_interface 
-    3. https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-004_interNFT_standard
-3. Review - Rights
-    1. https://github.com/interNFT/nft-rfc/pull/4 
-    2. Open conversation about defining and including bearer instruments
-        1. Token rights and resource rights 
-4. Next RFCs are not written yet:
-    1. RFC006/Cap 19 (chain agnostic work) write up after next week’s call
-    2. RFC007 Layer Model needs to be written up to explain in formal terms what we mean by metadata, how the layers in the system work together 
-5. We want to wrap up this phase of work by the end of the year, and start the new year with draft standards
-6. Github issues and PRs review 
-    1. Move more of our conversation to github so we can distribute the conversation better for those who cannot make these calls. Please check out the urls and comment there.
-    2. We have a lot of artifacts now, so the challenge is to get the engagement in conversation and to get people to try and give feedback so we can iterate and move forward.
-7. Next Metadata Subgroup Call - 2020.12.17 
-8. Next Working Group Call- 2020.01.14  
-9. Call recording for review: https://youtu.be/dc_rCq3xawI
+   1. Review of use case RFC 002
+      1. https://github.com/interNFT/use-cases/blob/main/NFT-RFC-002-use-cases.md 
+   1. Review - Interface (RFC-003, RFC-004) 
+      1. https://github.com/persistenceOne/assetMantle
+      1. https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-003_native_NFT_interface 
+      1. https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-004_interNFT_standard
+   1. Review - Rights
+      1. https://github.com/interNFT/nft-rfc/pull/4 
+      1. Open conversation about defining and including bearer instruments
+         1. Token rights and resource rights 
+   1. Next RFCs are not written yet:
+      1. RFC006/Cap 19 (chain agnostic work) write up after next week’s call
+      1. RFC007 Layer Model needs to be written up to explain in formal terms what we mean by metadata, how the layers in the system work together 
+   1. We want to wrap up this phase of work by the end of the year, and start the new year with draft standards
+   1. Github issues and PRs review 
+      1. Move more of our conversation to github so we can distribute the conversation better for those who cannot make these calls. Please check out the urls and comment there.
+      1. We have a lot of artifacts now, so the challenge is to get the engagement in conversation and to get people to try and give feedback so we can iterate and move forward.
+1. Next Metadata Subgroup Call - 2020.12.17 
+1. Next Working Group Call- 2020.01.14  
+1. Call recording for review: https://youtu.be/dc_rCq3xawI
 
----------------------------
+---
 
-## Metadata Subgroup Call D
+
+## InterNFT Metadata Subgroup Call D
 
 **17th December 2020**
 
 ### SUMMARY
-1. User story: https://github.com/interNFT/use-cases/pull/11
-2. Interchain UX Working Group
-    1. https://docs.google.com/document/d/1UUgowUBRX2bJlWQcZrgv1KdSpAf1JsNjBvTF4vs41qI/edit
-3.  CAIP 19
-    1. https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-19.md 
-4. Current W3C Standards-track effort 
-    1. https://w3c.github.io/did-core/ 
-5. https://github.com/chainAgnostic/CASA 
-6. Pull Requests 
+   1. User story: https://github.com/interNFT/use-cases/pull/11
+   1. Interchain UX Working Group
+      1. https://docs.google.com/document/d/1UUgowUBRX2bJlWQcZrgv1KdSpAf1JsNjBvTF4vs41qI/edit
+   1.  CAIP 19
+      1. https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-19.md 
+   1. Current W3C Standards-track effort 
+      1. https://w3c.github.io/did-core/ 
+      1. https://github.com/chainAgnostic/CASA 
+   1. Pull Requests 
       1. https://github.com/interNFT/nft-rfc/pull/1 
           1. For Comment on NFT=RFC-003 
-      2. https://github.com/interNFT/nft-rfc/pull/2 
+      1. https://github.com/interNFT/nft-rfc/pull/2 
           1. For Comments on NFT-RFC-004
-      3. https://github.com/interNFT/nft-rfc/pull/4
+      1. https://github.com/interNFT/nft-rfc/pull/4
           1. NFT-RFC-005 NFT Rights 
-          2. NFT-RFC-007 NFT Layers 
-7. Documentation
+          1. NFT-RFC-007 NFT Layers 
+   1. Documentation
       1. https://github.com/interNFT/documentation/pulls
-      2. https://github.com/interNFT/documentation/issues
-      3. https://github.com/interNFT/nft-rfc/issues
-      4. https://github.com/interNFT/nft-rfc/pulls 
-8. Issues
+      1. https://github.com/interNFT/documentation/issues
+      1. https://github.com/interNFT/nft-rfc/issues
+      1. https://github.com/interNFT/nft-rfc/pulls 
+   1. Issues
       1. https://github.com/interNFT/documentation/issues/22
-9. View Recording
+   1. View Recording
       1. https://youtu.be/W3uk2gwcgeM
-10. Slide deck
-     1. https://docs.google.com/presentation/d/1D5hoQTBI_xjcTg9EQYJZdRVzjsldcngaxs4unocKsY4/edit#slide=id.ga908659111_0_296
+   1.  Slide deck
+      1. https://docs.google.com/presentation/d/1D5hoQTBI_xjcTg9EQYJZdRVzjsldcngaxs4unocKsY4/edit#slide=id.ga908659111_0_296
 
 
 
@@ -416,8 +414,8 @@ Slides available at: https://docs.google.com/presentation/d/1mMPIVfjFBOh9qHL5aW4
 
 
 
-=======
-## interNFT Working Group + Metadata Call #7 
+---
+## InterNFT Working Group Call #7 
 
 **21st January 2021**
 
@@ -425,45 +423,45 @@ Slides available at: https://docs.google.com/presentation/d/1mMPIVfjFBOh9qHL5aW4
 
 1. Discussion on the proposal for IIDs & IID Documents (NFT-RFC-06)
     1. Last call: https://youtu.be/mm9BPABDejE
-    2. New since last call
+    1. New since last call
         1. Associated Resources is property new for IID Documents
-        2. IID Resource Types
-    3. Current status of NFT-RFCs
+        1. IID Resource Types
+    1. Current status of NFT-RFCs
         1. NFT-RFC-001 Specification Standard for Interchain NFTs and Metadata
-        2. NFT-RFC-002 Use Cases and Requirements Working Document
-        3. NFT-RFC-003 NFT Interface
-        4. NFT-RFC-004 interNFT Standard
-        5. NFT-RFC-005 NFT Rights
-        6. NFT-RFC-006 NFT Identifiers
-        7. NFT-RFC-007 NFT Layers
-        8. NFT-RFC-008 NFT Assertions
-2. GitHub Issues and PRs
+        1. NFT-RFC-002 Use Cases and Requirements Working Document
+        1. NFT-RFC-003 NFT Interface
+        1. NFT-RFC-004 interNFT Standard
+        1. NFT-RFC-005 NFT Rights
+        1. NFT-RFC-006 NFT Identifiers
+        1. NFT-RFC-007 NFT Layers
+        1. NFT-RFC-008 NFT Assertions
+1. GitHub Issues and PRs
     1. Documentation
         1. https://github.com/interNFT/documentation/pulls
-        2. https://github.com/interNFT/documentation/issues
-        3. https://github.com/interNFT/nft-rfc/issues
-        4. https://github.com/interNFT/nft-rfc/pulls  
-    2. Issues
+        1. https://github.com/interNFT/documentation/issues
+        1. https://github.com/interNFT/nft-rfc/issues
+        1. https://github.com/interNFT/nft-rfc/pulls  
+    1. Issues
         1. https://github.com/interNFT/nft-rfc/issues/8 
            1. Question about Multiple Classifications
-    3. Pull Requests
+    1. Pull Requests
         1. https://github.com/interNFT/nft-rfc/pull/1
            1. For Comment on NFT=RFC-003
-        2. https://github.com/interNFT/nft-rfc/pull/2
+        1. https://github.com/interNFT/nft-rfc/pull/2
            1. For Comments on NFT-RFC-004
-        3. https://github.com/interNFT/nft-rfc/pull/9
+        1. https://github.com/interNFT/nft-rfc/pull/9
             1. Editorial Review edits (incomplent)
-        4. https://github.com/interNFT/nft-rfc/pull/10
+        1. https://github.com/interNFT/nft-rfc/pull/10
             1. NFT-RFC-008 Assertions
-        5. https://github.com/interNFT/nft-rfc/pull/11
+        1. https://github.com/interNFT/nft-rfc/pull/11
             1. NFT-RFC-006
-3. Call recording: https://youtu.be/2vqjVtk5nX4
-4. Next Metadata call 2021.01.28
-5. Next Working Group Call 2021.02.04
-========
+1. Call recording: https://youtu.be/2vqjVtk5nX4
+1. Next Metadata call 2021.01.28
+1. Next Working Group Call 2021.02.04
 
-========
-## Interchain NFT Metadata Subgroup Call E
+
+---
+## InterNFT Metadata Subgroup Call E
 
 **28th January 2021**
 
