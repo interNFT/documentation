@@ -499,7 +499,7 @@ Part II:
 1. Next Working Group call: 2021.02.04
 1. Next Metadata call: 2021.02.11
 
-==========
+---
 ## Interchain NFT Working Group + Metadata Call #8
 
 **4th February 2021**
@@ -540,3 +540,79 @@ Part II:
         * Update to nft-rfc-008.md
 1. Next Working Group Call: 2021.02.18
 1. Next Metadata Subgroup Call: 2021.02.11
+
+---
+## Interchain NFT Metadata Subgroup Call F
+
+**11th February 2021**
+
+### SUMMARY
+
+1. Call Recording: https://youtu.be/bgcQXazqpi0
+1. Time to sense check the specs we’re developing against what is practically implementable
+1. Last week was a presentation of architecture of the spec
+   1. See “The Proposed Form of an Interchain NFT and Metadata Standard”
+   1. Linked Resources
+   1. Accorded Rights
+1. Elements of the proposed IID
+   1. Software components 
+   1. Transports & Protocols
+      1. IBC
+      1. CHAPI
+      1. DIDcomm
+      1. P2P
+   1. Artifacts 
+      1. IIDs (family of DID methods)
+      1. IID Documents 
+      1. Verifiable Credentials
+      1. Authorization Capabilities 
+      1. SES
+      1. Resources 
+1. Architecture Components 
+   1. These are components we are expecting to be supported on-chain (in Cosmos SDK)
+      1. NFT Module
+      1. IID Document Store 
+      1. IID Resolver
+      1. DID Resolver
+      1. Issuer Software	
+         1. In the VC world, and ZCaps there is a roll for Issuer Software and Verifier Software
+         1. Needs to have access to the ability to sign with crypto keys and it creates a ZCap, or VC, or Verifiable Presentation
+            1. Delegated non-centralized approach 
+            1. Often tied to a wallet, which is often off-line 
+            1. Web KMS
+            1. Keystore 
+      1. Verifier Software
+         1. Flip side of issuer software, if people developing for Cosmos blockchains to being able to verify a given ZCap or VC, they can call this component to do this verification
+      1. Authorization Module 
+         1. https://github.com/cosmos/cosmos-sdk/blob/master/docs/architecture/adr-030-authz-module.md
+         1. https://github.com/cosmos/cosmos-sdk/tree/master/x/authz
+   1. Components in DID architecture (not in Cosmos SDK)  
+      1. Web KMS - part of Issuer Software
+      1. Keystore - part of Issuer Software 
+      1. Confidential Storage 	
+      1. Wallet 
+   1. Capabilities conversation
+1. https://w3c-ccg.github.io/zcap-ld/
+1. Documentation
+   1. https://github.com/interNFT/documentation/pulls
+   1. https://github.com/interNFT/documentation/issues 
+   1. https://github.com/interNFT/nft-rfc/issues
+   1. https://github.com/interNFT/nft-rfc/pulls 
+   1. https://github.com/interNFT/nft-rfc/blob/main/nft-rfc-008.md
+   1. https://github.com/interNFT/nft-rfc/blob/main/nft-rfc-006.md
+1. Issues
+   1. https://github.com/interNFT/nft-rfc/issues/8 
+   * Question about Multiple Classifications
+1. Pull Requests 
+   1. https://github.com/interNFT/nft-rfc/pull/1
+   * For Comment on NFT=RFC-003
+   2. https://github.com/interNFT/nft-rfc/pull/2
+   * For Comments on NFT-RFC-004
+   3. https://github.com/interNFT/nft-rfc/pull/9
+   * Editorial Review edits (incomplent)
+   4. https://github.com/interNFT/nft-rfc/pull/10
+   * NFT-RFC-008 Assertions
+   5. https://github.com/interNFT/nft-rfc/pull/11
+   * NFT-RFC-006 NFT Identifiers
+1. Next Working Group Call: 2021.02.18
+1. Next Subgroup Call: 2021.02.25
