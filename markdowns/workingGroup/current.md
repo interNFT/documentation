@@ -1,14 +1,16 @@
 # Interchain NFT + Metadata Current Agenda
 
-## Next Call: Working Group Call #9
-### Thursday, 18 February 2021
+## Next Call: Subgroup Call G
+
+### Thursday, 25 February 2021
+
 ### Call in details: 
   1. Time: 8am PT, 4pm GMT, 5pm CET
   2. Join: https://zoom.us/j/9990000911 Password: Pandora   
 ### AGENDA
 1. Welcome & Progress Updates
-1. Synthesis: Review of the first draft core specification for Interchain NFTs and Metadata.
-1. Github Issues & PRs
+1. The privacy architecture for Interchain NFTs, Identifiers and Metadata.
+
 
 ## Remaining Calls: 
 
