@@ -540,3 +540,48 @@ Part II:
         * Update to nft-rfc-008.md
 1. Next Working Group Call: 2021.02.18
 1. Next Metadata Subgroup Call: 2021.02.11
+---
+## Interchain NFT Working Group + Metadata Call #9
+
+**18 February 2021**
+
+### SUMMARY
+
+1. Welcome and update
+1. Draft IID Specification 
+   * https://docs.google.com/document/d/1pu1Al8C22WZDUw3KgNcWKEBNULxhIkfj5GF7OZc_jXw/edit?usp=sharing
+   1. Interchain Identifiers (IIDs)
+   1. Use Cases
+   1. Requirements for the IID specification
+   1. Requirements for IIDs, IID Documents, and IID Methods
+   1. Extensibility
+   1. New Terminology
+      1. IID References 
+      1. IID Resources 
+   1. New Properties and Values
+      1. LinkedResources 
+      1. Extension (a type of Linked Resource)
+      1. Accorded Rights (a type of Linked Resource)
+      1. Executable Rights (a type of Linked Resource)
+      1. Assertions (a type of Linked Resource)
+   1. New Service Types
+   1. IID Syntax 
+   1. The IID Architecture
+   1. IIDs as DIDs
+      1. https://www.w3.org/TR/did-core/ 
+   1. Lifecycle of an NFT
+   1. Verifiable Credentials
+   1. Executable Rights
+      1. Delegation, Authorization, and Caveats
+      1. Authorization Capabilities
+      1. Secure ECMAScript
+   1. Confidential Storage
+   1. Polymorphic Mediator-Negotiator Endpoints
+   1. IBC 
+   1. Wallets
+   1. Privacy Considerations
+   1. How to create an IID Method
+   1. Terminology
+1. Call recording here:  https://youtu.be/3RSHnUBndyA
+1. Next Working Group Call: 2021.03.04
+1. Next Metadata Subgroup Call: 2021.02.25
