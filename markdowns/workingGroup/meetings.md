@@ -540,3 +540,28 @@ Part II:
         * Update to nft-rfc-008.md
 1. Next Working Group Call: 2021.02.18
 1. Next Metadata Subgroup Call: 2021.02.11
+---
+## Interchain NFT Subgroup Call G
+
+**25th February 2021** 
+
+### SUMMARY
+1. Introduction & Context  
+1. IIDs and Privacy
+1. Personal Privacy
+1. Household Privacy
+1. Organizational Privacy
+1. Regulatory Privacy
+1. What is not privacy
+1. Privacy Harms 
+1. Privacy Patterns 
+1. IID Solutions 
+1. Linked Resources 
+1. Polymorphic Mediator Service Endpoints
+1. Participant comments
+   1. https://github.com/gnolang
+   1. http://json-ld.github.io/normalization/spec/
+   1. https://github.com/lazyledger/smt
+1. Call recording here: https://youtu.be/In3NC4llVqw
+1. Next Working Group Call #10: 2021.03.04
+1. Next Subgroup Call H: 2021.03.11
