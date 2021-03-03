@@ -2,161 +2,127 @@
 
 Note that the dates are estimates and may vary. Double check with us on Discord for the next WG Meeting.
 
-## InterNFT Working Group Call #1
+## Interchain NFT Working Group + Metadata Call #1
   
 **4th September 2020**
 
-1. Agenda:
-   1. Welcome, Introduction of ICF + Persistence + IXO collaboration - Deepanshu - 5 mins
-   1. Interchain vision for NFTs & Metadata - Billy - 5 mins  - 5 mins
-   1. Scope and Objectives - Shaun - 5 mins
-   1. The NFT landscape - summary based on scoping exercise - Adrien - 5 mins
-   1. Lightning presentations of 3 use-cases - Adrien & 3 participants - 20 mins
-   1. Documenting canonical Use-cases (Approach, format, timeline, etc) - Adrien - 15 mins 
-   1. Working Group membership, agenda for future calls, AoB - Karthik - 10 mins
-
-1. Video Recording of Call 1: https://www.youtube.com/watch?v=c5v1xh1mOa4
-
-1. Slides of Call 1: https://github.com/interNFT/documentation/blob/master/resources/ICF_NFT_WG_-_Call_1_-_04.09.2020.pdf
-
-1. Minutes of Call 1:
-
-```
-Deepanshu Tripathi: Presentation of Persistence and how the project came about to work with ixo network and ICF. 
-
-Billy Rennekamp: Vision for this interchain NFT standard and why working with ixo network and ICF was a natural fit 
-
-Shaun Conway: Introducing a bird eye view of the project methodology and how it fits within its scope and objectives 
-
-Adrien Berthou: Presenting a summary of the findings of his NFT Landscape Research across Ethereum and other chains 
-
-Harm van den Dorpel: Lighting Presentation of Left Gallery 
-
-Gregory Landua: Lightning Presentation of Regen Network 
-
-Adrien Berthou: Introducing the methodology being used to document the Canonical Use Cases 
-
-Karthik Bupathi: Presenting the Working Groups memberships, Agenda for future calls and Communication Tools 
-
-Billy Rennekamp: 
-http://github.com/cosmos/ics —> process similar to EIP 
-https://github.com/cosmos/ics/tree/master/spec/ics-020-fungible-token-transfer
- —> ICS fungible token standard as an example 
-https://github.com/cosmos/ics/pull/294/files —> NFT ICS spec that was never merged
-
-Gregory Landua: 
-https://aaronc.gitbook.io/regen-docs/draft/token —> Regen fractional NFT doc 
-Gregory of Regen Network: Include a process to decide who needs to “buy in” before moving forward with important decisions. Gregory is happy to host a call to explain the strategy he put in place to get approval from meaningful stakeholders for key decisions being taken. 
-
-ADR = architecture decision record
-: document for a spec to be included in the Cosmos SDK 
-
-Karthik Bupathi: 
-InterNFT.org —> domain where we will publicly share our efforts; that includes a forum for ongoing discussions and a single source of truth for up-to-date information about latest decisions, events, recordings, documents, updates, and so on.
-```
+### SUMMARY
+1. Welcome, Introduction of ICF
+1. Persistence + IXO collaboration 
+1. Interchain vision for NFTs & Metadata 
+1. Project Methodology
+   1. Scope and Objectives 
+1. NFT Landscape Research 
+   1. Ethereum and other chains  
+1. Lightning Presentations 
+   1. Left Gallery
+   1. Regen Network
+1. Canonical Use Cases methodology
+1. Logistics 
+   1. Working Group membership
+   1. Agendas for future calls
+   1. Communication Tools , AoB - Karthik - 10 mins
+      1. http://github.com/cosmos/ics
+      * process similar to EIP 
+      1. https://github.com/cosmos/ics/tree/master/spec/ics-020-fungible-token-transfer
+      * ICS fungible token standard as an example 
+      1. https://github.com/cosmos/ics/pull/294/files
+      * NFT ICS spec that was never merged
+      1. https://aaronc.gitbook.io/regen-docs/draft/token
+      * Regen fractional NFT doc 
+      1. ADR = architecture decision record
+      * Document for a spec to be included in the Cosmos SDK
+1. InterNFT.org
+   1. Domain where we will publicly share our efforts; that includes a forum for ongoing discussions and a single source of truth for up-to-date information about latest decisions, events, recordings, documents, updates, and so on. 
+1.  Recording of Call: https://www.youtube.com/watch?v=c5v1xh1mOa4
+1.  Slides of Call 1: https://github.com/interNFT/documentation/blob/master/resources/ICF_NFT_WG_-_Call_1_-_04.09.2020.pdf
 ---
 
-## InterNFT Working Group Call #2
+## Interchain NFT Working Group + Metadata Call #2
 
 **25th September 2020**
 
-1. Agenda:
-   1. Welcome, short project intro and last call summary - Billy - 5min
-   1. Scope and Objectives - where we are now - Shaun - 5min
-   1. The InterNFT.org website is up and running - Deepanshu - 5min
-   1. Outcomes of Outreach Effort - Adrien - 5min
-   1. Ligthning presentations of 2 use-cases - 10 min - by Antoine of IOV Starname and Charly of Centrifuge
-   1. Use Case collection and documentation - Adrien - 5min
-   1. Community Feedback - 10 min - Karthik and call participants
+### SUMMARY 
+1. Welcome and Review 
+   1. Short project intro 
+1. Scope and Objectives
+1. Github Repo
+   1. The InterNFT.org website is up and running
+1. Outcomes of Outreach Effort
+1. Ligthning Presentations 
+   1. Centrifuge NFT Use-Case
+   1. https://tinlake.centrifuge.io/
+      1. Implemented on Ethereum and Substrate
+1. Use Case Collection and Documentation 
+   1. http://rmrk.app
+      * Kusama/Polkadot
+   1. https://www.crowdcast.io/e/213v16pl
+      *  NFT strategy for Kusama
+1. Community Feedback
+   1. Review Process Discussion
+   1. ARDs and RFPs/RFCs
+   1. https://github.com/cosmos/cosmos-sdk/tree/master/docs/architecture 
+   1. https://github.com/lacchain/lacchain-id
+      * DIDs, Metadata and Identity
+1. Calls moved to Thursdays going forward 
 
 1. Slides of Call 2: https://github.com/interNFT/documentation/tree/master/resources/ICF_NFT_WG_-_Call_2_-_25.09.2020.pdf
 
-1. Video Recording of Call 2: https://youtu.be/2NwOTwGkgpg
-
-1. Minutes of Call 2:
-
-```
-1. Welcome, v short project intro and briefly mention achievements covered in last call - Billy - 5min
-2. Scope and Objectives - where we are now - Shaun - 5min
-3. The Github repo as an additional source of info - Deepanshu - 5min
-4. Outcomes of Outreach Effort - Adrien - 5 mins
-
-5. Ligthning presentations of 3 use-cases - 20 min - by participants: IOV Starname, Centrifuge
-Charly -> presentation of Centrifuge and its NFT use-case https://tinlake.centrifuge.io/ implemented on ethereum and substrate
-
-6. Use Case collection and documentation - Adrien - 10min
-Bruno and Raul of Kusama/Polkadot -> presenting http://rmrk.app - Bruno will be happy to follow our standard once ready. Raul sharing the next session discussing the NFT strategy for Kusama https://www.crowdcast.io/e/213v16pl
-
-7. Community Feedback - 10 min - Karthik
-Review process discussion
-Aaron of Cosmos SDK team and Regen -> presenting ARDs and RFPs/RFCs - first doc use-case and needs, then problem definitions and proposals (that’s in the feature request template when creating a new github issue), once there is alignment on architecture we go thru an ADR process (similar to RFC) - see ADRs on https://github.com/cosmos/cosmos-sdk/tree/master/docs/architecture
-Gregory -> would be great to have these standards convos happening with Lacchain, they work on standards approach to DiD, Metadata and Identity, c.f. https://github.com/lacchain/lacchain-id
-Billy -> ADR is very specific to single features, whereas we are talking here about the Metadata+NFT+IBC, it might be beneficial to use the ICS as a starting point. we may need up to four approvals before going forward with decision
-Aaron -> on the SDK side we adopted a multi-language standard, i hope we can follow a similar process for NFTs. The discussion can start somewhere else than github issue
-Deepanshu -> discussion could start on an forum for non-technical audience to easily take part too, then move to github issues
-
-FYI: Calls are moved to Thursdays from now on
-```
+1. Recording of Call: https://youtu.be/2NwOTwGkgpg
 ---
-## InterNFT Working Group Call #3
+## Interchain NFT Working Group + Metadata Call #3
 
 **22nd October 2020**
 
-1. Agenda Part I:
-   1. Welcome to new members of the group - Billy
-   1. Map - where we are now - Shaun
-   1. RFC-1 The InterNFT RFC Process - Deepanshu
-   1. RFC-2  Use Cases & Requirements - Shaun
-   1. a Drafting process for NFT Metadata Standard Joe
-   1. b Drafting process for NFT Interface Standard - Deepanshu 
-   1. Call for contributions - Billy
-
-1. Agenda Part II:
-   1. Dean Tribble of Agoric on “NFTs & Object Capabilities”
-   1. James Waugh of Secret Network on “NFTs and Privacy”
-
+### SUMMARY 
+1. Welcome 
+    1. Short project intro
+    1. Project scope reminder 
+1. Use-Case Document 
+1. Data Collection  
+1. NFT-RFC 
+    1. https://github.com/interNFT/nft-rfc
+    1. https://github.com/orgs/interNFT/projects/
+       * RFC-1 The InterNFT RFC Process 
+    1. https://github.com/interNFT/use-cases/blob/main/NFT-REC-002-use-cases.md
+       * RFC-2 Use Cases & Requirements 
+    1. RFC-2  Use Cases & Requirements 
+1. Drafting process for NFT Metadata Standard 
+    1. Timeline
+    1. Drafting Initial Doc
+    1. Triaging PRs
+    1. Participation Requirements 
+1. Drafting process for NFT Interface Standard
+    1. Technical Expectations
+    1. Initial Prototype
+    1. Working Draft   
+1. Call for Contributions
+1. NFTs & Object Capabilities
+    1. Use-cases
+    1. Engineering
+    1. Object Capability System
+    1. Composition Reasoning Under Mutually Suspicious Assumptions
+    1. e-rights
+    1. Rich Composition
+    1. Programming-Language Abstraction Layer 
+1.  NFTs & Privacy 
+    1. Encryption Mechanism Overview
+    1. Special Features 
 1. Slides of Call 3: https://github.com/interNFT/documentation/tree/master/resources/ICF_NFT_WG_-_Call_3_-_22.10.2020.pdf
 
-1. Video Recording of Call 3: coming soon...
-
-1. Minutes of Call 3:
-
-```
-Part I:
-1. Welcome, v short project intro and project scope reminder - Billy - 5min
-2. Where we are now: the use case document and data collection - Shaun
-3. RFC-1 The InterNFT RFC Process: presentation of the RFC process by Deepanshu. c.f. https://github.com/interNFT/nft-rfc and https://github.com/orgs/interNFT/projects/3
-4. RFC-2 Use Cases & Requirements: presentation of the Document by Shaun - https://github.com/interNFT/use-cases/blob/main/NFT-REC-002-use-cases.md
-5.a Drafting process for NFT Metadata Standard by Joe - Timeline, Drafting initial Doc, Triaging PRs, Participation Requirements
-5.b Drafting process for NFT Interface Standard by Deepanshu - Technical Expectations, Initial Prototype, Working Draft
-6. Call for contributions - Billy
-
-Part II:
-1. Dean Tribble and Mark Miller of Agoric on “NFTs & Object Capabilities” - past work and how it fits into NFTs, ongoing work with bita.studio, use cases, engineering, object capability system, composition reasoning under mutualy suspicious assumptions, e-rights, rich composition, programing-language abstraction layer
-2. James Waugh of Secret Network on “NFTs and Privacy” - Secret Network presentation, Private NFTs with SNIP-721 https://github.com/SecretFoundation/SNIPs/blob/master/SNIP-721.md, Encryption mechanism overview, Special features
-```
+1. Recording of Call: https://youtu.be/h6mAme1ziU0
 
 ---
 ## InterNFT Working Group Call #4
 
 **5th November 2020**
 
+### SUMMARY
 
-1. Slides for Call 4: https://github.com/ericaconnell/documentation/raw/master/resources/ICF_NFT_WG_-_Call_4_-_2020.11.05.pdf
+1. First look at the draft Interchain NFT Interface Standard (NFT-RFC003)
+   * https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-003_native_NFT_interface
 
-1. ### Agenda
-   1. First look at the draft Interchain NFT Interface Standard (NFT-RFC003)
-   1. Status of Github Issues & PRs
-   1. Use-case presentations from participants:
-      1. Get Protocol - Kasper Keunen
-      1. FreeFlix - SistlaAbhishek and Dayakar Reddy 
-
-1. ### SUMMARY
-
-    1. #### First look at the draft Interchain NFT Interface Standard (NFT-RFC003)
-       * https://github.com/interNFT/nft-rfc/tree/main/spec/nft-rfc-003_native_NFT_interface
-
-1. #### Status of Github Issues & PRs
+1. Status of Github Issues & PRs
    1. Documentation 
       1. https://github.com/interNFT/documentation/issues 
       1. https://github.com/interNFT/documentation/pulls
@@ -182,6 +148,8 @@ Part II:
    1. #### FreeFlix
       1. SistlaAbhishek and Dayakar Reddy 
       * https://www.notion.so/Event-InterNFT-meetup-09ac70df015e4d39a7f8d4586b692fff 	
+1. Slides for Call 4: https://github.com/ericaconnell/documentation/raw/master/resources/ICF_NFT_WG_-_Call_4_-_2020.11.05.pdf
+2. Recording of Call: https://youtu.be/iZbqrLPbhjQ
 
 ---
 ## InterNFT Metadata Subgroup Call B
