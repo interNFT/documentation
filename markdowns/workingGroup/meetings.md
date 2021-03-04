@@ -2,7 +2,7 @@
 
 Note that the dates are estimates and may vary. Double check with us on Discord for the next WG Meeting.
 
-## **Interchain NFT Working Group + Metadata Call** #1
+## Interchain NFT Working Group + Metadata Call #1
   
 **4th September 2020**
 
