@@ -2,7 +2,7 @@
 
 Note that the dates are estimates and may vary. Double check with us on Discord for the next WG Meeting.
 
-## Interchain NFT Working Group + Metadata Call #1
+## **Interchain NFT Working Group + Metadata Call** #1
   
 **4th September 2020**
 
@@ -585,9 +585,9 @@ Note that the dates are estimates and may vary. Double check with us on Discord 
    * NFT-RFC-006 NFT Identifiers
 1. Next Working Group Call: 2021.02.18
 1. Next Subgroup Call: 2021.02.25
-=======
----
 
+
+---
 ## Interchain NFT Working Group + Metadata Call #9
 
 **18 February 2021**
@@ -632,7 +632,8 @@ Note that the dates are estimates and may vary. Double check with us on Discord 
 1. Call recording here:  https://youtu.be/3RSHnUBndyA
 1. Next Working Group Call: 2021.03.04
 1. Next Metadata Subgroup Call: 2021.02.25
-=======
+
+---
 ## Interchain NFT Subgroup Call G
 
 **25th February 2021** 
