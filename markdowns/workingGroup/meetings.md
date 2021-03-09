@@ -658,4 +658,51 @@ Note that the dates are estimates and may vary. Double check with us on Discord 
 1. Call recording here: https://youtu.be/In3NC4llVqw
 1. Next Working Group Call #10: 2021.03.04
 1. Next Subgroup Call H: 2021.03.11
+---
+## Interchain NFT Working Group + Metadata Call #10
+
+**4th March 2021**
+
+### SUMMARY
+
+1. Roadmap and progress
+    1. Use Cases
+    1. Technical Standards
+       1.  NFT Interface Spec
+       1. NFT Metadata Spec
+    1. Reference implementations
+       1. NFT Module in Cosmos SDK
+       1. Metadata Module in Cosmos SDK
+       1. DID Module in Cosmos SDK
+       1. Interchain DID Resolver in Cosmos SDK
+    1. UI & Testing Interfaces 
+    1. Developer Tools
+    1. Prototype Use-Case Applications 
+1. Interchain Token Templates
+    1. REC 2021 Artifact model 
+       1. Four human actors - each have a DID
+       1. Three meters generating electricity 
+    1. Architecture needs to work for whomever needs a template 
+    1. This is where Token Taxonomy work comes in
+1. The Token Taxonomy Framework
+    1. Formal presentation by Interwork Alliance cancelled due to sudden illness 
+    1. Have come together to support creation of this taxonomy and develop specific use-cases
+    1. Examples of what these templates look like
+       1. https://github.com/InterWorkAlliance/TokenTaxonomyFramework
+    1. Diagrams 
+       1. Template
+       1. Class 
+       1. Instance (specific NFTs)
+    1. Template Formula
+    1. Token categories 
+    1. Ambient Authority 
+    1. Template Examples 
+1. Delegation is important 
+    1. Managing authorization using keys 
+    1. Need a mechanism for authorizations 
+    1. Banking example
+    1. https://w3c-ccg.github.io/zcap-ld/
+1. Recording of call: https://youtu.be/0VhK2z28pdY
+1. Next Subgroup Call: 2021.03.11
+1. Next Working Group Call: 2021.03.18
 
