@@ -6,7 +6,7 @@
 ### Call in details: 
   1. Time: 8am PT, 4pm GMT, 5pm CET
   2. Join: https://zoom.us/j/9990000911 Password: Pandora   
-### THIS WEEK
+### AGENDA
 * In this week's Subgroup call we will be discussing all things inter- and cross-chain for NFTs and Metadata:
    * Requirements for NFTs across IBC
    * Authentication vs Authorisation across chains
