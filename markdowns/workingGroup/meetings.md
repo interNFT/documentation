@@ -113,6 +113,43 @@ Note that the dates are estimates and may vary. Double check with us on Discord 
 1. Recording of Call: https://youtu.be/h6mAme1ziU0
 
 ---
+## InterNFT Metadata Subgroup Call A
+
+**29th October 2020**
+
+### SUMMARY
+1.	What is Metadata
+    1.	Working on use cases
+    1. Extract Requirements 
+    1. NFT Metadata spec 
+1.	RFC Process and background 
+1.	Layer Cake Framework 
+    1. Interoperability
+    1. Operating within chains
+    1. A model separating physical layers at the bottom moving to an application layer at the top.
+1.	Tokens
+    1. Implementation within state machine
+    1. Features
+    1. Use-cases
+    1. Containers, with associated rights
+       1. Embodied rights
+       1. Object Capabilities
+    1. Operational Level
+       1. Tokens and Metadata from templates or object capabilities
+       1. VCs and Resources 	
+1.	Token Logic
+1.	Embedded Rights
+1.	Exercisable v symbolic
+1.	Fungible v non-fungible
+1.	https://agoric.com/papers/distributed-electronic-rights-in-javascript/abstract/ 
+1. https://www.youtube.com/watch?v=iyuo0ymTt4g&feature=youtu.be&t=1318  
+1. https://agoric.com/documentation/ertp/guide/ 
+1. https://agoric.com/papers/reasoning-about-risk-and-trust-in-an-open-world/abstract/  
+1. User Stories 
+2. Recording of Call: https://youtu.be/h6mAme1ziU0
+
+---
+
 ## InterNFT Working Group Call #4
 
 **5th November 2020**
