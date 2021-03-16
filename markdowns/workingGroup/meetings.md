@@ -742,4 +742,35 @@ Note that the dates are estimates and may vary. Double check with us on Discord 
 1. Recording of call: https://youtu.be/0VhK2z28pdY
 1. Next Subgroup Call: 2021.03.11
 1. Next Working Group Call: 2021.03.18
+---
+## Interchain NFT Subgroup Call H
 
+**11th March 2021** 
+
+### SUMMARY
+1. In this week's Subgroup call we will be discussing all things inter- and cross-chain for NFTs and Metadata:
+    1. RFC-009 about to be submitted
+    1. https://github.com/interNFT/nft-rfc/blob/main/nft-rfc-002.md
+    1. Requirements for NFTs across IBC 
+       1. Carbon Credits User Story
+    1. https://github.com/interNFT/nft-rfc/blob/main/nft-rfc-008.md
+    1. Authentication vs Authorisation across chains
+       1. Verification Relationships & Methods
+    1. Are there any existing multi-chain DID Resolvers that will allow one chain to lookup a DID Document on another chain?
+       1. Universal Resolver, (DIF)
+       1. DID:kit (Spruce ID)
+       1. https://github.com/decentralized-identity/did-resolver
+    1. IBC & Interchain Accounts for NFTs
+       1. Interchain Accounts 
+          1. Cross Chain Staking/Gov/Defi+ Using Interchain Accounts
+             1. Module Overview
+             1. Use Cases
+    1. DID-NFT Chain-agnostic Presentation
+       1. NFT DID Method Specification 
+       1. Ceramic Protocol Proposal (CIP-94)
+       1. https://github.com/ceramicnetwork/CIP/blob/main/CIPs/CIP-94/CIP-94.md
+       1. Distributed network for ceramic control data 
+1. https://github.com/interNFT/nft-rfc
+1. Call Recording: https://youtu.be/bMasi5tcIiQ
+1. Next Working Group Call: 2020.03.08 
+1. Next Subgroup Call: 2020.03.25
