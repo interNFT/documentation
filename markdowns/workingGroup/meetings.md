@@ -774,3 +774,45 @@ Note that the dates are estimates and may vary. Double check with us on Discord 
 1. Call Recording: https://youtu.be/bMasi5tcIiQ
 1. Next Working Group Call: 2020.03.08 
 1. Next Subgroup Call: 2020.03.25
+--- 
+## Interchain NFT Working Group + Metadata Call #11 
+
+**18th March 2021**
+
+### SUMMARY
+
+1. IID Implementation Spec 
+    1. https://github.com/interNFT/nft-rfc/pull/16 (nft_rfc_009)
+       1. Notion of refungibility or splitability - the ability to take one token and create a derivative of it
+       1. IID asset 
+       1. HTTPRange 14
+       1. New Properties and Values 
+          1. Transclude
+          1. Extension
+          1. REL 
+          1. Accorded Right
+          1. DisplayName, DisplayDescription, DisplayIcon
+       1. Polymorphic Mediator
+       1. How to create an IID Method
+    1. Review of Artifacts for Renewable Energy Component
+       1. zCap - Authorization Capability
+          1. https://w3c-ccg.github.io/zcap-ld/
+       1. https://www.w3.org/TR/vc-data-model/
+1. Roadmap
+    1. Use Cases  (RFC-002)
+       1. Theater tickets - Token Rights (RFC-005)
+       1. Renewable Energy Certificates 
+          1. Metadata Assertions using VCs (RFC-008)
+          1. Authorization Capabilities using zCaps (RFC-009)
+       1. Carbon Credits > IBC requirements 
+    1. Technical Standards
+       1. NFT Interface Spec (RFC-004)
+          1. Client SDK Spec 
+       1. NFT Metadata Spec (RFC-009)
+    1. Reference Implementations
+    1. UI & Testing Interfaces 
+    1. Developer Tools 
+    1. Invitation to https://github.com/interNFT
+    1. Discussions and comments are welcomed and encouraged
+1. Recording of call: https://youtu.be/qkf9pttEeWo
+1. Next Call: Subgroup Call I 2021.03.25
