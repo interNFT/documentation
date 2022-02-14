@@ -1,0 +1,9 @@
+name = "internft-docmentation"
+type = "webpack"
+route = 'https://docs.internft.org/*'
+zone_id = '050c11e9855feb082d99d609fc0e86c3'
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+site = {bucket = "./site",entry-point = "workers-site"}
+compatibility_date = "2022-02-11"
