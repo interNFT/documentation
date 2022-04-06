@@ -39,7 +39,7 @@ theme:
 # Plugins
 plugins:
   - search
-      indexing: 'full'
+    #      indexing: 'full'
   - minify:
       minify_html: true
 
