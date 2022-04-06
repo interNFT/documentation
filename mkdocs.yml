@@ -2,7 +2,7 @@
 site_name: Interchain NFT and Metadata Standardisation Working Group
 site_description: Interchain NFT and Metadata Standardisation Working Group
 site_author: interNFT
-site_url: http://internft.org/
+site_url: https://docs.internft.org/
 
 # Repository
 repo_name: interNFT
@@ -57,7 +57,11 @@ extra:
     - icon: fontawesome/brands/telegram
       link: https://t.me/interNFT
 
-# Google Analytics
+  nav_links:
+    - name: "Working Group"
+    - name: "Roadmap"
+    - name: "Working Draft"
+
 #google_analytics:
 #  - !!python/object/apply:os.getenv [ "GOOGLE_ANALYTICS_KEY" ]
 #  - auto
