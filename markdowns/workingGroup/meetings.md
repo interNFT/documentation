@@ -816,3 +816,47 @@ Note that the dates are estimates and may vary. Double check with us on Discord 
     1. Discussions and comments are welcomed and encouraged
 1. Recording of call: https://youtu.be/qkf9pttEeWo
 1. Next Call: Subgroup Call I 2021.03.25
+---
+## Interchain NFT Subgroup Call I
+
+**25th March 2021**
+
+### SUMMARY
+1. Final call for this segment of the work
+1. CryptoKitty NFT on Ethereum
+    1. Token Identifier
+    1. Contract address
+    1. Contract properties 
+    1. Contract methods 
+    1.  Kitty Properties 
+1. Copy Cat from Ethereum to Cosmos 
+1. Kitty starts as Interchain Token Template 
+    1. First pass at using JSON-LD to define behaviors and properties 
+    1. JSON-LD 
+    1. Behaviors
+1. CryptoKitty Token Behaviours
+    1. Terminology from Token Taxonomy framework
+1. Kitty presents as an Interchain Identifier 
+    1. Kitty IID Document
+       1. @context
+       1. @type
+       1. id
+       1. Verification Relationship
+       1. Verification Methods
+       1. Services
+       1. LinkedResources 
+1. Capabilities - Linked Resources & Accorded Right
+    1.  Example - Celebrity Cat - Beyonce’s CryptoKitty
+    1. Verifiable Credential - Beyonce’s ID
+    1. zCap Authorization - Backstage Pass
+    1. Verifiable Credential - Merch License
+1. Bridging Cosmos & Ethereum CryptoKitty NFTs
+    1. Buy CryptoKitty on Ethereum from Cosmos 
+    1. Breed CryptoKitty on Ethereum from Secret Network
+    1. Other cross-chain options?
+       1. Ex: Lock up assets at Ethereum, and duplicate issued on the Cosmos chain
+       1. Ex: IBC extension accounting for ____ 
+       1. Biggest barrier to bridging is a well-accepted implementation of ‘one true’ Cosmos NFT Module		
+1. NFT Capabilities Comparison
+1. Call Recording: https://youtu.be/uyhy496_ODU
+1. Look for a call invite for Phase 2 of this work after Easter Break. 
