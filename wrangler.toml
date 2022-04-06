@@ -7,3 +7,6 @@ compatibility_flags = []
 workers_dev = true
 site = {bucket = "./site",entry-point = "workers-site"}
 compatibility_date = "2022-02-11"
+
+[env.release]
+route = 'https://docs.internft.org/*'
