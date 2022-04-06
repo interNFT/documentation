@@ -133,5 +133,5 @@ nav:
       - 17. Known Issues: "knownIssues.md"
       - 18. Resources: "resources.md"
 
-extra_css:
-  - assets/stylesheets/extra.css
+        #extra_css:
+        #  - assets/stylesheets/extra.css
