@@ -1,6 +1,5 @@
 name = "internft-docmentation"
 type = "webpack"
-route = 'https://docs.internft.org/*'
 zone_id = '050c11e9855feb082d99d609fc0e86c3'
 usage_model = ''
 compatibility_flags = []
