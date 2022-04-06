@@ -39,6 +39,7 @@ theme:
 # Plugins
 plugins:
   - search
+      indexing: 'full'
   - minify:
       minify_html: true
 
@@ -57,9 +58,9 @@ extra:
       link: https://t.me/interNFT
 
 # Google Analytics
-google_analytics:
-  - !!python/object/apply:os.getenv [ "GOOGLE_ANALYTICS_KEY" ]
-  - auto
+#google_analytics:
+#  - !!python/object/apply:os.getenv [ "GOOGLE_ANALYTICS_KEY" ]
+#  - auto
 
 # Extensions
 markdown_extensions:
