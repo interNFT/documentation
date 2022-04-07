@@ -19,8 +19,8 @@ theme:
   name: material
   custom_dir: resources
 
-  features:
-    - tabs
+#  features:
+#    - tabs
     #- instant
 
   palette:
@@ -132,6 +132,5 @@ nav:
       - 16. Examples: "examples.md"
       - 17. Known Issues: "knownIssues.md"
       - 18. Resources: "resources.md"
-
-        #extra_css:
-        #  - assets/stylesheets/extra.css
+extra_css:
+  - assets/stylesheets/extra.css
