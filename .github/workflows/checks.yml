@@ -1,14 +1,10 @@
-name: Checks-Builds-Deploy
+name: Checks
 
 # Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the specified branches
+# events but only for the master branch
 on:
   pull_request:
     branches: [master]
-  push:
-    branches:
-      - master
-      - main
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -19,20 +15,14 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Set up Python 3.9
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v2
         with:
-          python-version: '3.9'
-      - uses: actions/cache@v3
-        with:
-          key: mkdocs-material-${{ github.ref }}
-          path: .cache
-          restore-keys: |
-            mkdocs-material-
+          python-version: 3.9
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
+          pip install mkdocs mkdocs-material mkdocs-minify-plugin
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: Build Documentation
         run: |
           mkdocs build -v
-      - run: mkdocs gh-deploy --force
